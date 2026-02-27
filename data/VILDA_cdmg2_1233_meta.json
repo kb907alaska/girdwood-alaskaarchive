@@ -1,0 +1,147 @@
+{
+  "requestedId": 1233,
+  "id": 1233,
+  "parentId": -1,
+  "collectionAlias": "cdmg2",
+  "collectionName": "Anchorage Museum at Rasmuson Center",
+  "contentType": "image/jpeg",
+  "filename": "1234.jpg",
+  "title": "U_S_Army_Corps_of_Engineers_personnel_build_sandbag_defenses_against_flooding_in_the_Girdwood_area_",
+  "text": null,
+  "pageNumber": null,
+  "imageWidth": 759.0,
+  "imageHeight": 620.0,
+  "fields": [
+    {
+      "key": "collec",
+      "label": "Collection Name",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "AMRC. Woodman Photograph Collection;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "identi",
+      "label": "Identifier",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "AMRC-b80-27-12",
+      "controlledVocabList": null
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "U.S. Army Corps of Engineers personnel build sandbag defenses against flooding in the Girdwood area.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "descri",
+      "label": "Description",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "View of U.S. Army Corps of Engineers stacking sandbags to prevent flooding near Girdwood, Alaska, after March 27, 1964 earthquake. Land in Girdwood area sank after the earthquake, so flooding from Turnagain Arm waters occurred. March 1964. Photographer: U.S. Army Corps of Engineers. Original photograph size: 8\" x 10\".",
+      "controlledVocabList": null
+    },
+    {
+      "key": "creato",
+      "label": "Creator",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "United States. Army. Corps of Engineers",
+      "controlledVocabList": null
+    },
+    {
+      "key": "subjec",
+      "label": "Subject.TGM",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Earthquakes; Disasters; Flood control; Floods; Military personnel; Soldiers; Engineers; Automobiles; Trucks; Men; Signs (Notices)",
+      "controlledVocabList": null
+    },
+    {
+      "key": "subjea",
+      "label": "Subject.LCSH",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Sandbags",
+      "controlledVocabList": null
+    },
+    {
+      "key": "corpor",
+      "label": "Corporate Name",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "United States. Army. Corps of Engineers;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "locati",
+      "label": "Location",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Girdwood (Alaska);",
+      "controlledVocabList": null
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Southcentral Alaska;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "covera",
+      "label": "Time Period",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "1959 and later;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "March 1964",
+      "controlledVocabList": null
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Image (Photographs);",
+      "controlledVocabList": null
+    },
+    {
+      "key": "rights",
+      "label": "Ordering & Use",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "https://www.anchoragemuseum.org/collections/rights-reproductions/",
+      "controlledVocabList": null
+    },
+    {
+      "key": "holdin",
+      "label": "Holding Institution",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "Anchorage Museum at Rasmuson Center. 625 C Street Anchorage, AK 99501 mailto:resourcecenter@anchoragemuseum.org",
+      "controlledVocabList": null
+    }
+  ],
+  "fullrsEnabled": false,
+  "hasPrintPDF": false,
+  "thumbnailUri": "/api/singleitem/collection/cdmg2/id/1233/thumbnail",
+  "imageUri": "https://vilda.alaska.edu/iiif/2/cdmg2:1233/full/730,/0/default.jpg",
+  "iiifInfoUri": "/iiif/2/cdmg2:1233/info.json",
+  "downloadUri": "/api/collection/cdmg2/id/1233/download",
+  "downloadParentUri": null,
+  "url": null,
+  "streamUri": null,
+  "parent": null,
+  "flatCompoundObjects": null
+}

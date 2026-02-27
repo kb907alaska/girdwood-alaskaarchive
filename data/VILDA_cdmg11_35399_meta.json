@@ -1,0 +1,1487 @@
+{
+  "requestedId": 35399,
+  "id": 15158,
+  "parentId": 35399,
+  "collectionAlias": "cdmg11",
+  "collectionName": "University of Alaska Fairbanks",
+  "contentType": "image/jpeg",
+  "filename": "15009.jpg",
+  "title": "Frank_Barr_Pilgrim_",
+  "text": null,
+  "pageNumber": -1,
+  "imageWidth": 720.0,
+  "imageHeight": 421.0,
+  "fields": [
+    {
+      "key": "discla",
+      "label": "Disclaimer",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "Our archive preserves and provides access to historical materials, some of which may contain offensive, biased, or outdated content. We strive to offer historical context by presenting these materials in their original form, using the language and perspectives of the time in which they were created. By sharing them as they originally appeared, we aim to accurately reflect the context of our collections for research and educational purposes. These views do not represent the values or beliefs of our institution.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "relati",
+      "label": "Display Full Size",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Pioneer Aviators Project Jukebox: http://jukebox.uaf.edu/projects",
+      "controlledVocabList": null
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Frank Barr - Pilgrim.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "identi",
+      "label": "Identifier",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "UAF-1990-125-1",
+      "controlledVocabList": null
+    },
+    {
+      "key": "descri",
+      "label": "Description",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "\"Frank Barr - Pilgrim.\"\n\nDescription from verso.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "subjec",
+      "label": "Subject.TGM",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Airplanes; Men;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "person",
+      "label": "Personal Name",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Barr, Frank L. (Francis Lucien), 1903-1983;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Alaska; Outside;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "covera",
+      "label": "Time Period",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "1939 to 1959; 1959 and later",
+      "controlledVocabList": null
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Image (Photographs);",
+      "controlledVocabList": null
+    },
+    {
+      "key": "collec",
+      "label": "Collection Name",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Ransom T. (Tony) Schultz collection, 1960-1990",
+      "controlledVocabList": null
+    },
+    {
+      "key": "rights",
+      "label": "Ordering & Use",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "For information on ordering and using this material: https://library.uaf.edu/aprca/services/reproductions",
+      "controlledVocabList": null
+    },
+    {
+      "key": "standa",
+      "label": "Standard Citation",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "We ask that our material be cited as follows: Collection Name, Identifier, Archives, University of Alaska Fairbanks.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "holdin",
+      "label": "Holding Institution",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "Alaska and Polar Regions Collections & Archives, Elmer E. Rasmuson Library, University of Alaska Fairbanks",
+      "controlledVocabList": null
+    },
+    {
+      "key": "contac",
+      "label": "Contact Us",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "The Alaska and Polar Regions Collections & Archives is always interested in making its records better. If you would like to help improve or correct this record, please contact us here: https://library.uaf.edu/aprca",
+      "controlledVocabList": null
+    }
+  ],
+  "fullrsEnabled": false,
+  "hasPrintPDF": false,
+  "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15158/thumbnail",
+  "imageUri": "https://vilda.alaska.edu/iiif/2/cdmg11:15158/full/720,/0/default.jpg",
+  "iiifInfoUri": "/iiif/2/cdmg11:15158/info.json",
+  "downloadUri": "/api/collection/cdmg11/id/15158/download",
+  "downloadParentUri": "/digital/api/collection/cdmg11/id/35399/download",
+  "url": null,
+  "streamUri": null,
+  "parent": {
+    "title": null,
+    "nodes": null,
+    "fields": [
+      {
+        "key": "discla",
+        "label": "Disclaimer",
+        "controlledVocab": false,
+        "searchable": false,
+        "value": "Our archive preserves and provides access to historical materials, some of which may contain offensive, biased, or outdated content. We strive to offer historical context by presenting these materials in their original form, using the language and perspectives of the time in which they were created. By sharing them as they originally appeared, we aim to accurately reflect the context of our collections for research and educational purposes. These views do not represent the values or beliefs of our institution.",
+        "controlledVocabList": null
+      },
+      {
+        "key": "relati",
+        "label": "Display Full Size",
+        "controlledVocab": false,
+        "searchable": true,
+        "value": "Pioneer Aviators Project Jukebox: http://www.uaf.edu/library/jukebox",
+        "controlledVocabList": null
+      },
+      {
+        "key": "title",
+        "label": "Title",
+        "controlledVocab": false,
+        "searchable": true,
+        "value": "Ransom T. (Tony) Schultz collection, 1960-1990.",
+        "controlledVocabList": null
+      },
+      {
+        "key": "identi",
+        "label": "Identifier",
+        "controlledVocab": false,
+        "searchable": true,
+        "value": "UAF-1990-125; UAF-1992-94;",
+        "controlledVocabList": null
+      },
+      {
+        "key": "creato",
+        "label": "Creator",
+        "controlledVocab": true,
+        "searchable": true,
+        "value": "Schultz, Ransom Tony;",
+        "controlledVocabList": null
+      },
+      {
+        "key": "descri",
+        "label": "Description",
+        "controlledVocab": false,
+        "searchable": true,
+        "value": "Ransom Tony Schultz (Tony) came to Alaska in 1938. That same year he bought his first plane and obtained his pilot's license. He began flying for Star Airlines (later Alaska Airlines) in 1940, and in 1950, was chosen as their first chief bush pilot. He also flew in Alaska for Northern Consolidated Airlines, Wien Airlines, Interior Airlines, and as a bush pilot for the Bureau of Land Management. Tony also worked with Hawkins & Powers, who were in the forest firefighting business in connection with the United States Department of the Interior, BLM. Hawkins & Powers were pioneers in developing airplanes from surplus World War II airplanes, making them droppers for Borate to put out the fires. He died in 1993.\n\nInformation from the Pioneer Aviators Collection on the Project Jukebox Website (link below).",
+        "controlledVocabList": null
+      },
+      {
+        "key": "subjec",
+        "label": "Subject.TGM",
+        "controlledVocab": true,
+        "searchable": true,
+        "value": "Airplanes; Biplanes; Air pilots; Flight crews; Airlines; Aircraft accidents; Airports; Dinner parties;",
+        "controlledVocabList": null
+      },
+      {
+        "key": "subjea",
+        "label": "Subject.LCSH",
+        "controlledVocab": true,
+        "searchable": true,
+        "value": "Hercules (Turboprop transports); Beechcraft (Airplanes); Cessna 180 (Private planes); Curtiss CW-20 (Transport plane); Douglas airplanes; Lockheed aircraft; Waco airplanes;",
+        "controlledVocabList": null
+      },
+      {
+        "key": "person",
+        "label": "Personal Name",
+        "controlledVocab": true,
+        "searchable": true,
+        "value": "Alderfer, Clifford; Barr, Frank L. (Francis Lucien), 1903-1983; Bennett, A. A.; Chamberlain, Pearl Bragg Laska; Chambers, Fred Gutelius; Clayton, George C.; Crosson, Joe, 1903-1949; Doyle, Kay Peterson; Egan, William A.; Egan, Neva M.; Feltes, George; Fisher, Joan; Fisher, Robert; Frizell, Lillian Crosson; Hutchinson, James; Lavery, William L., 1914-1983; Mabee, Roy; Magoffin, Dorothy Riddle (Dottie), 1925-2004; Magoffin, James; Mirow, Hans; Nash, Frank; Neese, Kenny; Okiyuma, Masatake; Ott, Charles J.;Richards, Thomas \"Tommy\", 1923-1994; Robertson, Erwin A., 1859-1940; Sholton, Robert; Swanton, Harry; Thompson, Clyde; Walker, Frank; Walker, Dennis; Whaley, Frank H.; Whaley, Trina; West, Charles B., 1914-; Wien, Noel;",
+        "controlledVocabList": null
+      },
+      {
+        "key": "corpor",
+        "label": "Corporate Name",
+        "controlledVocab": true,
+        "searchable": true,
+        "value": "Air North (Whitehorse, Yukon); Alaska Airlines; Alaska International Air (Firm); Alaska Star Airlines (Anchorage, Alaska); Alyeska Ski Resort (Anchorage, Alaska); American Airlines, inc.; Anchorage International Airport; Fairbanks International Airport; Gambell Native Store (Gambell, Alaska); Merrill Field (Anchorage, Alaska); Northern Consolidated Airlines; Northern Air Cargo (Alaska); Wien Air Alaska;",
+        "controlledVocabList": null
+      },
+      {
+        "key": "locati",
+        "label": "Location",
+        "controlledVocab": true,
+        "searchable": true,
+        "value": "Anchorage (Alaska); Bethel (Alaska); Cordova (Alaska); Eagle (Alaska); Fairbanks (Alaska); Gambell (Alaska); Girdwood (Alaska); King Salmon (Alaska); Kotzebue (Alaska); Kuskokwim River (Alaska); Lake Spenard (Alaska); Platinum (Alaska); Saint Lawrence Island (Alaska); Chandler (Ariz.); Chino (Calif.); Chitina (Alaska); Chitina River (Alaska);",
+        "controlledVocabList": null
+      },
+      {
+        "key": "region",
+        "label": "Region",
+        "controlledVocab": true,
+        "searchable": true,
+        "value": "Alaska; Outside;",
+        "controlledVocabList": null
+      },
+      {
+        "key": "covera",
+        "label": "Time Period",
+        "controlledVocab": true,
+        "searchable": true,
+        "value": "1939 to 1959; 1959 and later;",
+        "controlledVocabList": null
+      },
+      {
+        "key": "type",
+        "label": "Type",
+        "controlledVocab": true,
+        "searchable": true,
+        "value": "Collection; Image (Photographs); Image (Portrait photographs); Image (Group portraits);",
+        "controlledVocabList": null
+      },
+      {
+        "key": "collec",
+        "label": "Collection Name",
+        "controlledVocab": true,
+        "searchable": true,
+        "value": "Ransom T. (Tony) Schultz collection, 1960-1990;",
+        "controlledVocabList": null
+      },
+      {
+        "key": "rights",
+        "label": "Ordering & Use",
+        "controlledVocab": false,
+        "searchable": false,
+        "value": "For information on ordering and using this material: https://library.uaf.edu/aprca/services/reproductions",
+        "controlledVocabList": null
+      },
+      {
+        "key": "standa",
+        "label": "Standard Citation",
+        "controlledVocab": false,
+        "searchable": false,
+        "value": "We ask that our material be cited as follows: Collection Name, Identifier, Archives, University of Alaska Fairbanks.",
+        "controlledVocabList": null
+      },
+      {
+        "key": "holdin",
+        "label": "Holding Institution",
+        "controlledVocab": false,
+        "searchable": false,
+        "value": "Alaska and Polar Regions Collections & Archives, Elmer E. Rasmuson Library, University of Alaska Fairbanks",
+        "controlledVocabList": null
+      },
+      {
+        "key": "contac",
+        "label": "Contact Us",
+        "controlledVocab": false,
+        "searchable": false,
+        "value": "The Alaska and Polar Regions Collections & Archives is always interested in making its records better. If you would like to help improve or correct this record, please contact us here: https://library.uaf.edu/aprca",
+        "controlledVocabList": null
+      }
+    ],
+    "children": [
+      {
+        "id": 15158,
+        "title": "UAF-1990-125-1",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15158/thumbnail"
+      },
+      {
+        "id": 15159,
+        "title": "UAF-1990-125-2",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15159/thumbnail"
+      },
+      {
+        "id": 15160,
+        "title": "UAF-1990-125-3",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15160/thumbnail"
+      },
+      {
+        "id": 15161,
+        "title": "UAF-1990-125-4",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15161/thumbnail"
+      },
+      {
+        "id": 15162,
+        "title": "UAF-1990-125-5",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15162/thumbnail"
+      },
+      {
+        "id": 15163,
+        "title": "UAF-1990-125-6",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15163/thumbnail"
+      },
+      {
+        "id": 15164,
+        "title": "UAF-1990-125-7",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15164/thumbnail"
+      },
+      {
+        "id": 15165,
+        "title": "UAF-1990-125-8",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15165/thumbnail"
+      },
+      {
+        "id": 15166,
+        "title": "UAF-1992-94-01",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15166/thumbnail"
+      },
+      {
+        "id": 15167,
+        "title": "UAF-1992-94-02",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15167/thumbnail"
+      },
+      {
+        "id": 15168,
+        "title": "UAF-1992-94-03",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15168/thumbnail"
+      },
+      {
+        "id": 15169,
+        "title": "UAF-1992-94-04",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15169/thumbnail"
+      },
+      {
+        "id": 15170,
+        "title": "UAF-1992-94-05",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15170/thumbnail"
+      },
+      {
+        "id": 15171,
+        "title": "UAF-1992-94-06",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15171/thumbnail"
+      },
+      {
+        "id": 15172,
+        "title": "UAF-1992-94-07",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15172/thumbnail"
+      },
+      {
+        "id": 15173,
+        "title": "UAF-1992-94-08",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15173/thumbnail"
+      },
+      {
+        "id": 15174,
+        "title": "UAF-1992-94-09",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15174/thumbnail"
+      },
+      {
+        "id": 15175,
+        "title": "UAF-1992-94-10",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15175/thumbnail"
+      },
+      {
+        "id": 15176,
+        "title": "UAF-1992-94-11",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15176/thumbnail"
+      },
+      {
+        "id": 15177,
+        "title": "UAF-1992-94-12",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15177/thumbnail"
+      },
+      {
+        "id": 15178,
+        "title": "UAF-1992-94-13",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15178/thumbnail"
+      },
+      {
+        "id": 15179,
+        "title": "UAF-1992-94-14",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15179/thumbnail"
+      },
+      {
+        "id": 15180,
+        "title": "UAF-1992-94-15",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15180/thumbnail"
+      },
+      {
+        "id": 15181,
+        "title": "UAF-1992-94-16",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15181/thumbnail"
+      },
+      {
+        "id": 15182,
+        "title": "UAF-1992-94-17",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15182/thumbnail"
+      },
+      {
+        "id": 15183,
+        "title": "UAF-1992-94-18",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15183/thumbnail"
+      },
+      {
+        "id": 15184,
+        "title": "UAF-1992-94-19",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15184/thumbnail"
+      },
+      {
+        "id": 15185,
+        "title": "UAF-1992-94-20",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15185/thumbnail"
+      },
+      {
+        "id": 15186,
+        "title": "UAF-1992-94-21",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15186/thumbnail"
+      },
+      {
+        "id": 15187,
+        "title": "UAF-1992-94-22",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15187/thumbnail"
+      },
+      {
+        "id": 15188,
+        "title": "UAF-1992-94-23",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15188/thumbnail"
+      },
+      {
+        "id": 15189,
+        "title": "UAF-1992-94-24",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15189/thumbnail"
+      },
+      {
+        "id": 15190,
+        "title": "UAF-1992-94-25",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15190/thumbnail"
+      },
+      {
+        "id": 15191,
+        "title": "UAF-1992-94-26",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15191/thumbnail"
+      },
+      {
+        "id": 15192,
+        "title": "UAF-1992-94-27",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15192/thumbnail"
+      },
+      {
+        "id": 15193,
+        "title": "UAF-1992-94-28",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15193/thumbnail"
+      },
+      {
+        "id": 15194,
+        "title": "UAF-1992-94-29",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15194/thumbnail"
+      },
+      {
+        "id": 15195,
+        "title": "UAF-1992-94-30",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15195/thumbnail"
+      },
+      {
+        "id": 15196,
+        "title": "UAF-1992-94-31",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15196/thumbnail"
+      },
+      {
+        "id": 15197,
+        "title": "UAF-1992-94-32",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15197/thumbnail"
+      },
+      {
+        "id": 15198,
+        "title": "UAF-1992-94-33",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15198/thumbnail"
+      },
+      {
+        "id": 15199,
+        "title": "UAF-1992-94-34",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15199/thumbnail"
+      },
+      {
+        "id": 15200,
+        "title": "UAF-1992-94-35",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15200/thumbnail"
+      },
+      {
+        "id": 15201,
+        "title": "UAF-1992-94-36",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15201/thumbnail"
+      },
+      {
+        "id": 15202,
+        "title": "UAF-1992-94-37",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15202/thumbnail"
+      },
+      {
+        "id": 15203,
+        "title": "UAF-1992-94-38",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15203/thumbnail"
+      },
+      {
+        "id": 15204,
+        "title": "UAF-1992-94-39",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15204/thumbnail"
+      },
+      {
+        "id": 15205,
+        "title": "UAF-1992-94-40",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15205/thumbnail"
+      },
+      {
+        "id": 15206,
+        "title": "UAF-1992-94-41",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15206/thumbnail"
+      },
+      {
+        "id": 15207,
+        "title": "UAF-1992-94-42",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15207/thumbnail"
+      },
+      {
+        "id": 15208,
+        "title": "UAF-1992-94-43",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15208/thumbnail"
+      },
+      {
+        "id": 15209,
+        "title": "UAF-1992-94-44",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15209/thumbnail"
+      },
+      {
+        "id": 15210,
+        "title": "UAF-1992-94-45",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15210/thumbnail"
+      },
+      {
+        "id": 15211,
+        "title": "UAF-1992-94-46",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15211/thumbnail"
+      },
+      {
+        "id": 15212,
+        "title": "UAF-1992-94-47",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15212/thumbnail"
+      },
+      {
+        "id": 15213,
+        "title": "UAF-1992-94-48",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15213/thumbnail"
+      },
+      {
+        "id": 15214,
+        "title": "UAF-1992-94-49",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15214/thumbnail"
+      },
+      {
+        "id": 15215,
+        "title": "UAF-1992-94-50",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15215/thumbnail"
+      },
+      {
+        "id": 15216,
+        "title": "UAF-1992-94-51",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15216/thumbnail"
+      },
+      {
+        "id": 15217,
+        "title": "UAF-1992-94-52",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15217/thumbnail"
+      },
+      {
+        "id": 15218,
+        "title": "UAF-1992-94-53",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15218/thumbnail"
+      },
+      {
+        "id": 15219,
+        "title": "UAF-1992-94-54",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15219/thumbnail"
+      },
+      {
+        "id": 15220,
+        "title": "UAF-1992-94-55",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15220/thumbnail"
+      },
+      {
+        "id": 15221,
+        "title": "UAF-1992-94-56",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15221/thumbnail"
+      },
+      {
+        "id": 15222,
+        "title": "UAF-1992-94-57",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15222/thumbnail"
+      },
+      {
+        "id": 15223,
+        "title": "UAF-1992-94-58",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15223/thumbnail"
+      },
+      {
+        "id": 15224,
+        "title": "UAF-1992-94-59",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15224/thumbnail"
+      },
+      {
+        "id": 15225,
+        "title": "UAF-1992-94-60",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15225/thumbnail"
+      },
+      {
+        "id": 15226,
+        "title": "UAF-1992-94-61",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15226/thumbnail"
+      },
+      {
+        "id": 15227,
+        "title": "UAF-1992-94-62",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15227/thumbnail"
+      },
+      {
+        "id": 15228,
+        "title": "UAF-1992-94-63",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15228/thumbnail"
+      },
+      {
+        "id": 15229,
+        "title": "UAF-1992-94-64",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15229/thumbnail"
+      },
+      {
+        "id": 15230,
+        "title": "UAF-1992-94-65",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15230/thumbnail"
+      },
+      {
+        "id": 15231,
+        "title": "UAF-1992-94-66",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15231/thumbnail"
+      },
+      {
+        "id": 15232,
+        "title": "UAF-1992-94-67",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15232/thumbnail"
+      },
+      {
+        "id": 15233,
+        "title": "UAF-1992-94-68",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15233/thumbnail"
+      },
+      {
+        "id": 15234,
+        "title": "UAF-1992-94-69",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15234/thumbnail"
+      },
+      {
+        "id": 15235,
+        "title": "UAF-1992-94-70",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15235/thumbnail"
+      },
+      {
+        "id": 15236,
+        "title": "UAF-1992-94-71",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15236/thumbnail"
+      },
+      {
+        "id": 15237,
+        "title": "UAF-1992-94-72",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15237/thumbnail"
+      },
+      {
+        "id": 15238,
+        "title": "UAF-1992-94-73",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15238/thumbnail"
+      },
+      {
+        "id": 15239,
+        "title": "UAF-1992-94-74",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15239/thumbnail"
+      },
+      {
+        "id": 15240,
+        "title": "UAF-1992-94-75",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15240/thumbnail"
+      },
+      {
+        "id": 15241,
+        "title": "UAF-1992-94-76",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15241/thumbnail"
+      },
+      {
+        "id": 15242,
+        "title": "UAF-1992-94-77",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15242/thumbnail"
+      },
+      {
+        "id": 15243,
+        "title": "UAF-1992-94-78",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15243/thumbnail"
+      },
+      {
+        "id": 15244,
+        "title": "UAF-1992-94-79",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15244/thumbnail"
+      },
+      {
+        "id": 15245,
+        "title": "UAF-1992-94-80",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15245/thumbnail"
+      },
+      {
+        "id": 15246,
+        "title": "UAF-1992-94-81",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15246/thumbnail"
+      },
+      {
+        "id": 15247,
+        "title": "UAF-1992-94-82",
+        "thumbnailUri": "/api/singleitem/collection/cdmg11/id/15247/thumbnail"
+      }
+    ],
+    "type": "MONOGRAPH",
+    "flatCompoundObjectItems": null
+  },
+  "flatCompoundObjects": [
+    {
+      "id": null,
+      "title": "Ransom T. (Tony) Schultz collection, 1960-1990.",
+      "nodeIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90
+      ],
+      "parentIndex": null,
+      "position": null
+    },
+    {
+      "id": "15158",
+      "title": "UAF-1990-125-1",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15159",
+      "title": "UAF-1990-125-2",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15160",
+      "title": "UAF-1990-125-3",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15161",
+      "title": "UAF-1990-125-4",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15162",
+      "title": "UAF-1990-125-5",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15163",
+      "title": "UAF-1990-125-6",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15164",
+      "title": "UAF-1990-125-7",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15165",
+      "title": "UAF-1990-125-8",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15166",
+      "title": "UAF-1992-94-01",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15167",
+      "title": "UAF-1992-94-02",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15168",
+      "title": "UAF-1992-94-03",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15169",
+      "title": "UAF-1992-94-04",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15170",
+      "title": "UAF-1992-94-05",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15171",
+      "title": "UAF-1992-94-06",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15172",
+      "title": "UAF-1992-94-07",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15173",
+      "title": "UAF-1992-94-08",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15174",
+      "title": "UAF-1992-94-09",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15175",
+      "title": "UAF-1992-94-10",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15176",
+      "title": "UAF-1992-94-11",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15177",
+      "title": "UAF-1992-94-12",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15178",
+      "title": "UAF-1992-94-13",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15179",
+      "title": "UAF-1992-94-14",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15180",
+      "title": "UAF-1992-94-15",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15181",
+      "title": "UAF-1992-94-16",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15182",
+      "title": "UAF-1992-94-17",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15183",
+      "title": "UAF-1992-94-18",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15184",
+      "title": "UAF-1992-94-19",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15185",
+      "title": "UAF-1992-94-20",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15186",
+      "title": "UAF-1992-94-21",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15187",
+      "title": "UAF-1992-94-22",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15188",
+      "title": "UAF-1992-94-23",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15189",
+      "title": "UAF-1992-94-24",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15190",
+      "title": "UAF-1992-94-25",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15191",
+      "title": "UAF-1992-94-26",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15192",
+      "title": "UAF-1992-94-27",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15193",
+      "title": "UAF-1992-94-28",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15194",
+      "title": "UAF-1992-94-29",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15195",
+      "title": "UAF-1992-94-30",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15196",
+      "title": "UAF-1992-94-31",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15197",
+      "title": "UAF-1992-94-32",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15198",
+      "title": "UAF-1992-94-33",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15199",
+      "title": "UAF-1992-94-34",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15200",
+      "title": "UAF-1992-94-35",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15201",
+      "title": "UAF-1992-94-36",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15202",
+      "title": "UAF-1992-94-37",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15203",
+      "title": "UAF-1992-94-38",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15204",
+      "title": "UAF-1992-94-39",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15205",
+      "title": "UAF-1992-94-40",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15206",
+      "title": "UAF-1992-94-41",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15207",
+      "title": "UAF-1992-94-42",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15208",
+      "title": "UAF-1992-94-43",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15209",
+      "title": "UAF-1992-94-44",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15210",
+      "title": "UAF-1992-94-45",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15211",
+      "title": "UAF-1992-94-46",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15212",
+      "title": "UAF-1992-94-47",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15213",
+      "title": "UAF-1992-94-48",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15214",
+      "title": "UAF-1992-94-49",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15215",
+      "title": "UAF-1992-94-50",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15216",
+      "title": "UAF-1992-94-51",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15217",
+      "title": "UAF-1992-94-52",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15218",
+      "title": "UAF-1992-94-53",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15219",
+      "title": "UAF-1992-94-54",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15220",
+      "title": "UAF-1992-94-55",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15221",
+      "title": "UAF-1992-94-56",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15222",
+      "title": "UAF-1992-94-57",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15223",
+      "title": "UAF-1992-94-58",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15224",
+      "title": "UAF-1992-94-59",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15225",
+      "title": "UAF-1992-94-60",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15226",
+      "title": "UAF-1992-94-61",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15227",
+      "title": "UAF-1992-94-62",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15228",
+      "title": "UAF-1992-94-63",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15229",
+      "title": "UAF-1992-94-64",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15230",
+      "title": "UAF-1992-94-65",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15231",
+      "title": "UAF-1992-94-66",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15232",
+      "title": "UAF-1992-94-67",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15233",
+      "title": "UAF-1992-94-68",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15234",
+      "title": "UAF-1992-94-69",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15235",
+      "title": "UAF-1992-94-70",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15236",
+      "title": "UAF-1992-94-71",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15237",
+      "title": "UAF-1992-94-72",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15238",
+      "title": "UAF-1992-94-73",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15239",
+      "title": "UAF-1992-94-74",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15240",
+      "title": "UAF-1992-94-75",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15241",
+      "title": "UAF-1992-94-76",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15242",
+      "title": "UAF-1992-94-77",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15243",
+      "title": "UAF-1992-94-78",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15244",
+      "title": "UAF-1992-94-79",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15245",
+      "title": "UAF-1992-94-80",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15246",
+      "title": "UAF-1992-94-81",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    },
+    {
+      "id": "15247",
+      "title": "UAF-1992-94-82",
+      "nodeIndices": [],
+      "parentIndex": 0,
+      "position": null
+    }
+  ]
+}

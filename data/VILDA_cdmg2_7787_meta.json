@@ -1,0 +1,139 @@
+{
+  "requestedId": 7787,
+  "id": 7787,
+  "parentId": -1,
+  "collectionAlias": "cdmg2",
+  "collectionName": "Anchorage Museum at Rasmuson Center",
+  "contentType": "image/jpeg",
+  "filename": "7788.jpg",
+  "title": "Girdwood_Schools_",
+  "text": null,
+  "pageNumber": null,
+  "imageWidth": 752.0,
+  "imageHeight": 768.0,
+  "fields": [
+    {
+      "key": "collec",
+      "label": "Collection Name",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "AMRC. Steve McCutcheon Collection",
+      "controlledVocabList": null
+    },
+    {
+      "key": "identi",
+      "label": "Identifier",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "AMRC-B1990-014-5-TV-063-3",
+      "controlledVocabList": null
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Girdwood Schools.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "descri",
+      "label": "Description",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Title from sleeve. Aerial view of the school buildings in Girdwood, with a sports oval. Photographer's number: 25858. Negative",
+      "controlledVocabList": null
+    },
+    {
+      "key": "creato",
+      "label": "Creator",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "McCutcheon, Steve, 1911-",
+      "controlledVocabList": null
+    },
+    {
+      "key": "requir",
+      "label": "Required citation",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "Steve McCutcheon, McCutcheon Collection, Anchorage Museum, B1990.14.5.TV.063.3",
+      "controlledVocabList": null
+    },
+    {
+      "key": "subjec",
+      "label": "Subject.TGM",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Schools; Buildings; Sports & recreation facilities",
+      "controlledVocabList": null
+    },
+    {
+      "key": "locati",
+      "label": "Location",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Girdwood (Alaska)",
+      "controlledVocabList": null
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Southcentral Alaska",
+      "controlledVocabList": null
+    },
+    {
+      "key": "covera",
+      "label": "Time Period",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "1959 and later",
+      "controlledVocabList": null
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Aug. 14, 1974",
+      "controlledVocabList": null
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Image (Film negatives); Image (Aerial photographs)",
+      "controlledVocabList": null
+    },
+    {
+      "key": "rights",
+      "label": "Ordering & Use",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "https://www.anchoragemuseum.org/collections/rights-reproductions/",
+      "controlledVocabList": null
+    },
+    {
+      "key": "holdin",
+      "label": "Holding Institution",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "Anchorage Museum at Rasmuson Center. 625 C Street Anchorage, AK 99501. mailto:resourcecenter@anchoragemuseum.org",
+      "controlledVocabList": null
+    }
+  ],
+  "fullrsEnabled": false,
+  "hasPrintPDF": false,
+  "thumbnailUri": "/api/singleitem/collection/cdmg2/id/7787/thumbnail",
+  "imageUri": "https://vilda.alaska.edu/iiif/2/cdmg2:7787/full/730,/0/default.jpg",
+  "iiifInfoUri": "/iiif/2/cdmg2:7787/info.json",
+  "downloadUri": "/api/collection/cdmg2/id/7787/download",
+  "downloadParentUri": null,
+  "url": null,
+  "streamUri": null,
+  "parent": null,
+  "flatCompoundObjects": null
+}

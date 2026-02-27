@@ -1,0 +1,147 @@
+{
+  "requestedId": 14212,
+  "id": 14212,
+  "parentId": -1,
+  "collectionAlias": "cdmg13",
+  "collectionName": "University of Alaska Anchorage",
+  "contentType": "image/jp2",
+  "filename": "14193.jp2",
+  "title": "F_H_Whitney_cabin_in_Girdwood",
+  "text": null,
+  "pageNumber": null,
+  "imageWidth": 719.0,
+  "imageHeight": 414.0,
+  "fields": [
+    {
+      "key": "identi",
+      "label": "Identifier",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "uaa-hmc-0894-6c",
+      "controlledVocabList": null
+    },
+    {
+      "key": "collec",
+      "label": "Collection Name",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Frank H. Whitney scrapbook, undated, 1925. UAA-HMC-0894",
+      "controlledVocabList": null
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "F.H. Whitney cabin in Girdwood",
+      "controlledVocabList": null
+    },
+    {
+      "key": "descri",
+      "label": "Description",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Title taken from caption. A wooden building on a dirt road with six windows and a porch.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "requir",
+      "label": "Required citation",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "Frank H. Whitney scrapbook, Archives and Special Collections, Consortium Library, University of Alaska Anchorage.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "subjec",
+      "label": "Subject",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Buildings; Cabins; Windows; Porches; Dirt roads; Fences; Wood",
+      "controlledVocabList": null
+    },
+    {
+      "key": "locati",
+      "label": "Location",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Girdwood (Alaska); Crow Creek (Anchorage, Alaska)",
+      "controlledVocabList": null
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Southcentral Alaska",
+      "controlledVocabList": null
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "1925",
+      "controlledVocabList": null
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Image (Photographs)",
+      "controlledVocabList": null
+    },
+    {
+      "key": "langua",
+      "label": "Language",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "English",
+      "controlledVocabList": null
+    },
+    {
+      "key": "relati",
+      "label": "Related Materials",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "https://archives.consortiumlibrary.org/collections/specialcollections/hmc-0894",
+      "controlledVocabList": null
+    },
+    {
+      "key": "righta",
+      "label": "Rights",
+      "controlledVocab": true,
+      "searchable": false,
+      "value": "The Archives does not hold copyright to this item.  Please contact the Archives prior to using.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "rights",
+      "label": "Ordering & Use",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "https://archives.consortiumlibrary.org/collections/online-materials/",
+      "controlledVocabList": null
+    },
+    {
+      "key": "holdin",
+      "label": "Holding Institution",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "University of Alaska Anchorage. Consortium Library. Archives & Special Collections. 3211 Providence Dr. Anchorage, AK 99508, 1-907-786-1849. mailto:https://archives.consortiumlibrary.org/contact-us/",
+      "controlledVocabList": null
+    }
+  ],
+  "fullrsEnabled": false,
+  "hasPrintPDF": false,
+  "thumbnailUri": "/api/singleitem/collection/cdmg13/id/14212/thumbnail",
+  "imageUri": "https://vilda.alaska.edu/iiif/2/cdmg13:14212/full/719,/0/default.jpg",
+  "iiifInfoUri": "/iiif/2/cdmg13:14212/info.json",
+  "downloadUri": "/api/collection/cdmg13/id/14212/download",
+  "downloadParentUri": null,
+  "url": null,
+  "streamUri": null,
+  "parent": null,
+  "flatCompoundObjects": null
+}

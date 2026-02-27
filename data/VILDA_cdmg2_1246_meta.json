@@ -1,0 +1,139 @@
+{
+  "requestedId": 1246,
+  "id": 1246,
+  "parentId": -1,
+  "collectionAlias": "cdmg2",
+  "collectionName": "Anchorage Museum at Rasmuson Center",
+  "contentType": "image/jpeg",
+  "filename": "1247.jpg",
+  "title": "Buckles_in_the_Alaska_Railroad_tracks_near_Girdwood_Alaska_",
+  "text": null,
+  "pageNumber": null,
+  "imageWidth": 760.0,
+  "imageHeight": 620.0,
+  "fields": [
+    {
+      "key": "collec",
+      "label": "Collection Name",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "AMRC. Corps of Engineers 1964 Earthquake Photographs Collection;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "identi",
+      "label": "Identifier",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "AMRC-b79-38-11",
+      "controlledVocabList": null
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Buckles in the Alaska Railroad tracks near Girdwood, Alaska.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "descri",
+      "label": "Description",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Aerial view of damage to Alaska Railroad tracks near Girdwood, Alaska, after March 27, 1964 earthquake. March 1964. Photographer: U.S. Army Corps of Engineers. Original photograph size: 8\" x 10\".",
+      "controlledVocabList": null
+    },
+    {
+      "key": "creato",
+      "label": "Creator",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "United States. Army. Corps of Engineers",
+      "controlledVocabList": null
+    },
+    {
+      "key": "subjec",
+      "label": "Subject.TGM",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Aerial views; Earthquakes; Disasters; Railroads; Railroad tracks",
+      "controlledVocabList": null
+    },
+    {
+      "key": "corpor",
+      "label": "Corporate Name",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Alaska Railroad Corporation;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "locati",
+      "label": "Location",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Girdwood (Alaska);",
+      "controlledVocabList": null
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Southcentral Alaska;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "covera",
+      "label": "Time Period",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "1959 and later;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "March 1964",
+      "controlledVocabList": null
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Image (Photographs);",
+      "controlledVocabList": null
+    },
+    {
+      "key": "rights",
+      "label": "Ordering & Use",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "https://www.anchoragemuseum.org/collections/rights-reproductions/",
+      "controlledVocabList": null
+    },
+    {
+      "key": "holdin",
+      "label": "Holding Institution",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "Anchorage Museum at Rasmuson Center. 625 C Street Anchorage, AK 99501 mailto:resourcecenter@anchoragemuseum.org",
+      "controlledVocabList": null
+    }
+  ],
+  "fullrsEnabled": false,
+  "hasPrintPDF": false,
+  "thumbnailUri": "/api/singleitem/collection/cdmg2/id/1246/thumbnail",
+  "imageUri": "https://vilda.alaska.edu/iiif/2/cdmg2:1246/full/730,/0/default.jpg",
+  "iiifInfoUri": "/iiif/2/cdmg2:1246/info.json",
+  "downloadUri": "/api/collection/cdmg2/id/1246/download",
+  "downloadParentUri": null,
+  "url": null,
+  "streamUri": null,
+  "parent": null,
+  "flatCompoundObjects": null
+}

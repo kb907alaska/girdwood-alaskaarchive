@@ -1,0 +1,147 @@
+{
+  "requestedId": 36086,
+  "id": 36086,
+  "parentId": -1,
+  "collectionAlias": "cdmg11",
+  "collectionName": "University of Alaska Fairbanks",
+  "contentType": "image/jpeg",
+  "filename": "35946.jpg",
+  "title": "Slide_at_mile_Mr_Jones_",
+  "text": null,
+  "pageNumber": null,
+  "imageWidth": 464.0,
+  "imageHeight": 720.0,
+  "fields": [
+    {
+      "key": "discla",
+      "label": "Disclaimer",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "Our archive preserves and provides access to historical materials, some of which may contain offensive, biased, or outdated content. We strive to offer historical context by presenting these materials in their original form, using the language and perspectives of the time in which they were created. By sharing them as they originally appeared, we aim to accurately reflect the context of our collections for research and educational purposes. These views do not represent the values or beliefs of our institution.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Slide at mile 75 - Mr. Jones.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "identi",
+      "label": "Identifier",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "UAF-1969-89-57",
+      "controlledVocabList": null
+    },
+    {
+      "key": "descri",
+      "label": "Description",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Title from caption: \"A.E.C. [Alaskan Engineering Commission], slide at m. 75 - Mr. Jones, 4/29/'20.\n\nLocation was determined based on the title given for UAF-1969-89-55. This avalanche is referenced in UAF-1969-89-56. Man wearing a fedora hat is shown walking on the tracks, holding his jacket and something that is shaped like a tube.  Snow is piled up on both sides of the tracks.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "subjec",
+      "label": "Subject.TGM",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Avalanches; Snow; Railroad tracks; Men; Disasters; Hats; Trees;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "locati",
+      "label": "Location",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Girdwood (Alaska);",
+      "controlledVocabList": null
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Southcentral Alaska;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "covera",
+      "label": "Time Period",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "1913 to 1939;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "1920/04/29",
+      "controlledVocabList": null
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Image (Photographs);",
+      "controlledVocabList": null
+    },
+    {
+      "key": "collec",
+      "label": "Collection Name",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Angier family papers",
+      "controlledVocabList": null
+    },
+    {
+      "key": "rights",
+      "label": "Ordering & Use",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "For information on ordering and using this material: https://library.uaf.edu/aprca/services/reproductions",
+      "controlledVocabList": null
+    },
+    {
+      "key": "standa",
+      "label": "Standard Citation",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "We ask that our material be cited as follows: Collection Name, Identifier, Archives, University of Alaska Fairbanks.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "holdin",
+      "label": "Holding Institution",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "Alaska and Polar Regions Collections & Archives, Elmer E. Rasmuson Library, University of Alaska Fairbanks",
+      "controlledVocabList": null
+    },
+    {
+      "key": "contac",
+      "label": "Contact Us",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "The Alaska and Polar Regions Collections & Archives is always interested in making its records better. If you would like to help improve or correct this record, please contact us here: https://library.uaf.edu/aprca",
+      "controlledVocabList": null
+    }
+  ],
+  "fullrsEnabled": false,
+  "hasPrintPDF": false,
+  "thumbnailUri": "/api/singleitem/collection/cdmg11/id/36086/thumbnail",
+  "imageUri": "https://vilda.alaska.edu/iiif/2/cdmg11:36086/full/464,/0/default.jpg",
+  "iiifInfoUri": "/iiif/2/cdmg11:36086/info.json",
+  "downloadUri": "/api/collection/cdmg11/id/36086/download",
+  "downloadParentUri": null,
+  "url": null,
+  "streamUri": null,
+  "parent": null,
+  "flatCompoundObjects": null
+}

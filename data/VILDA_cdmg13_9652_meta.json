@@ -1,0 +1,139 @@
+{
+  "requestedId": 9652,
+  "id": 9652,
+  "parentId": -1,
+  "collectionAlias": "cdmg13",
+  "collectionName": "University of Alaska Anchorage",
+  "contentType": "image/jp2",
+  "filename": "9628.jp2",
+  "title": "Railroad_near_Girdwood_after_the_earthquake_",
+  "text": null,
+  "pageNumber": null,
+  "imageWidth": 720.0,
+  "imageHeight": 502.0,
+  "fields": [
+    {
+      "key": "identi",
+      "label": "Identifier",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "uaa-hmc-0461-s6a-f1-51-AE(a)-19-1",
+      "controlledVocabList": null
+    },
+    {
+      "key": "collec",
+      "label": "Collection Name",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Robert and Wilma Knox papers, 1949-2001. UAA-HMC-0461",
+      "controlledVocabList": null
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Railroad near Girdwood after the 1964 earthquake.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "descri",
+      "label": "Description",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "View of railroad tracks near Girdwood, Alaska after the March 27, 1964 earthquake. Sign to the left of the tracks reads Girdwood. Image includes railroad cars, trucks, and damaged buildings.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "requir",
+      "label": "Required citation",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "Robert and Wilma Knox papers, Archives and Special Collections, Consortium Library, University of Alaska Anchorage.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "subjec",
+      "label": "Subject",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Alaska Earthquake, Alaska, 1964; Earthquakes; Railroad tracks; Railroad cars; Trucks; Buildings; Building failures;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "locati",
+      "label": "Location",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Girdwood (Alaska);",
+      "controlledVocabList": null
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Southcentral Alaska;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "1964",
+      "controlledVocabList": null
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Image (Photographs);",
+      "controlledVocabList": null
+    },
+    {
+      "key": "relati",
+      "label": "Related Materials",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "https://archives.consortiumlibrary.org/collections/specialcollections/hmc-0461",
+      "controlledVocabList": null
+    },
+    {
+      "key": "righta",
+      "label": "Rights",
+      "controlledVocab": true,
+      "searchable": false,
+      "value": "The Archives holds copyright to this item. Please consult the Archives prior to using.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "rights",
+      "label": "Ordering & Use",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "https://archives.consortiumlibrary.org/collections/online-materials/",
+      "controlledVocabList": null
+    },
+    {
+      "key": "holdin",
+      "label": "Holding Institution",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "University of Alaska Anchorage. Consortium Library. Archives & Special Collections. 3211 Providence Dr. Anchorage, AK 99508, 1-907-786-1849. mailto:https://archives.consortiumlibrary.org/contact-us/",
+      "controlledVocabList": null
+    }
+  ],
+  "fullrsEnabled": false,
+  "hasPrintPDF": false,
+  "thumbnailUri": "/api/singleitem/collection/cdmg13/id/9652/thumbnail",
+  "imageUri": "https://vilda.alaska.edu/iiif/2/cdmg13:9652/full/720,/0/default.jpg",
+  "iiifInfoUri": "/iiif/2/cdmg13:9652/info.json",
+  "downloadUri": "/api/collection/cdmg13/id/9652/download",
+  "downloadParentUri": null,
+  "url": null,
+  "streamUri": null,
+  "parent": null,
+  "flatCompoundObjects": null
+}

@@ -1,0 +1,155 @@
+{
+  "requestedId": 16992,
+  "id": 16992,
+  "parentId": -1,
+  "collectionAlias": "cdmg13",
+  "collectionName": "University of Alaska Anchorage",
+  "contentType": "image/jp2",
+  "filename": "16961.jp2",
+  "title": "Alyeska_Resort_Flowers_",
+  "text": null,
+  "pageNumber": null,
+  "imageWidth": 719.0,
+  "imageHeight": 444.0,
+  "fields": [
+    {
+      "key": "identi",
+      "label": "Identifier",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "uaa-hmc-0792-b10-f1-sheet26-15",
+      "controlledVocabList": null
+    },
+    {
+      "key": "collec",
+      "label": "Collection Name",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Ruth A.M. Schmidt papers, 1912-2014. UAA-HMC-0792",
+      "controlledVocabList": null
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Alyeska Resort Flowers.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "descri",
+      "label": "Description",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Title taken from slide mount. View of flowers in pots and buckets on a wooden sidewalk in front of the Alyeska Resort. Hanging baskets of flowers are hanging from the deck. One woman is sitting at a picnic table underneath the deck eating, and two men are sitting in chairs near a payphone, also underneath the deck. A sign hanging from the deck reads: \"Alyeska Sport Shop.\" There are also ladders, brooms, garbage cans, hoses, watering cans, and benches underneath the deck.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "creato",
+      "label": "Creator",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Schmidt, Ruth Ann Marie (1916-2014);",
+      "controlledVocabList": null
+    },
+    {
+      "key": "requir",
+      "label": "Required citation",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "Ruth A.M. Schmidt papers, Archives and Special Collections, Consortium Library, University of Alaska Anchorage.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "subjec",
+      "label": "Subject",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Flowers; Flowerpots; Brooms & brushes; Men; Women; Sidewalks; Tables; Benches; Resorts; Decks (Rooms & spaces);",
+      "controlledVocabList": null
+    },
+    {
+      "key": "corpor",
+      "label": "Corporate Name",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Alyeska Resort;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "locati",
+      "label": "Location",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Girdwood (Alaska);",
+      "controlledVocabList": null
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Southcentral Alaska;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "July 15, 1988",
+      "controlledVocabList": null
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Image (Photographs);",
+      "controlledVocabList": null
+    },
+    {
+      "key": "relati",
+      "label": "Related Materials",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "https://archives.consortiumlibrary.org/collections/specialcollections/hmc-0792",
+      "controlledVocabList": null
+    },
+    {
+      "key": "righta",
+      "label": "Rights",
+      "controlledVocab": true,
+      "searchable": false,
+      "value": "The Archives holds copyright to this item. Please consult the Archives prior to using.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "rights",
+      "label": "Ordering & Use",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "https://archives.consortiumlibrary.org/collections/online-materials/",
+      "controlledVocabList": null
+    },
+    {
+      "key": "holdin",
+      "label": "Holding Institution",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "University of Alaska Anchorage. Consortium Library. Archives & Special Collections. 3211 Providence Dr. Anchorage, AK 99508, 1-907-786-1849. mailto:https://archives.consortiumlibrary.org/contact-us/",
+      "controlledVocabList": null
+    }
+  ],
+  "fullrsEnabled": false,
+  "hasPrintPDF": false,
+  "thumbnailUri": "/api/singleitem/collection/cdmg13/id/16992/thumbnail",
+  "imageUri": "https://vilda.alaska.edu/iiif/2/cdmg13:16992/full/719,/0/default.jpg",
+  "iiifInfoUri": "/iiif/2/cdmg13:16992/info.json",
+  "downloadUri": "/api/collection/cdmg13/id/16992/download",
+  "downloadParentUri": null,
+  "url": null,
+  "streamUri": null,
+  "parent": null,
+  "flatCompoundObjects": null
+}

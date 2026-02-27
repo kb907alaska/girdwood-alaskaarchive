@@ -1,0 +1,155 @@
+{
+  "requestedId": 1774,
+  "id": 1774,
+  "parentId": -1,
+  "collectionAlias": "cdmg21",
+  "collectionName": "Alaska State Library-Historical Collections",
+  "contentType": "image/jpeg",
+  "filename": "1787.jpg",
+  "title": "Monarch_Mine_",
+  "text": null,
+  "pageNumber": null,
+  "imageWidth": 720.0,
+  "imageHeight": 1063.0,
+  "fields": [
+    {
+      "key": "title",
+      "label": "Title",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Monarch Mine, 7/4/49.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "identi",
+      "label": "Identifier",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "ASL-P414-3719",
+      "controlledVocabList": null
+    },
+    {
+      "key": "collec",
+      "label": "Collection Name",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Maynard C. Dahlstrom. Photographs, 1945-1994. ASL-PCA-414",
+      "controlledVocabList": null
+    },
+    {
+      "key": "descri",
+      "label": "Description",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Title taken from slide mount.  Several buildings along a road way.  A man sits in front of a tall building with a sign reading \"Road House.\"",
+      "controlledVocabList": null
+    },
+    {
+      "key": "creato",
+      "label": "Creator",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Dahlstrom, Maynard C.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "subjec",
+      "label": "Subject.TGM",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Mining; Mine buildings; Buildings; Trucks",
+      "controlledVocabList": null
+    },
+    {
+      "key": "subjeb",
+      "label": "Subject.Local",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Roadhouses",
+      "controlledVocabList": null
+    },
+    {
+      "key": "corpor",
+      "label": "Corporate Name",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Monarch Mining Company",
+      "controlledVocabList": null
+    },
+    {
+      "key": "locati",
+      "label": "Location",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Girdwood (Alaska)",
+      "controlledVocabList": null
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Southcentral Alaska",
+      "controlledVocabList": null
+    },
+    {
+      "key": "covera",
+      "label": "Time Period",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "1939 to 1959",
+      "controlledVocabList": null
+    },
+    {
+      "key": "date",
+      "label": "Date.original",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "1949",
+      "controlledVocabList": null
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Image (Photographs); Image (Slides)",
+      "controlledVocabList": null
+    },
+    {
+      "key": "relati",
+      "label": "Related Materials",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "https://anch.ent.sirsi.net/client/en_US/asl/search/results?qu=54085604",
+      "controlledVocabList": null
+    },
+    {
+      "key": "rights",
+      "label": "Ordering & Use",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "https://library.alaska.gov/hist/vilda_rights.html",
+      "controlledVocabList": null
+    },
+    {
+      "key": "holdin",
+      "label": "Holding Institution",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "Alaska State Library - Historical Collections, PO Box 110571, Juneau AK 99811-0571; mailto:asl.historical@alaska.gov",
+      "controlledVocabList": null
+    }
+  ],
+  "fullrsEnabled": false,
+  "hasPrintPDF": false,
+  "thumbnailUri": "/api/singleitem/collection/cdmg21/id/1774/thumbnail",
+  "imageUri": "https://vilda.alaska.edu/iiif/2/cdmg21:1774/full/720,/0/default.jpg",
+  "iiifInfoUri": "/iiif/2/cdmg21:1774/info.json",
+  "downloadUri": "/api/collection/cdmg21/id/1774/download",
+  "downloadParentUri": null,
+  "url": null,
+  "streamUri": null,
+  "parent": null,
+  "flatCompoundObjects": null
+}

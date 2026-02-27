@@ -1,0 +1,171 @@
+{
+  "requestedId": 10495,
+  "id": 10495,
+  "parentId": -1,
+  "collectionAlias": "cdmg11",
+  "collectionName": "University of Alaska Fairbanks",
+  "contentType": "image/jpeg",
+  "filename": "10346.jpg",
+  "title": "Map_of_Kenai_mining_district_and_Moose_Pass_regions_Kenai_precinct_Alaska_",
+  "text": null,
+  "pageNumber": null,
+  "imageWidth": 616.0,
+  "imageHeight": 768.0,
+  "fields": [
+    {
+      "key": "discla",
+      "label": "Disclaimer",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "Our archive preserves and provides access to historical materials, some of which may contain offensive, biased, or outdated content. We strive to offer historical context by presenting these materials in their original form, using the language and perspectives of the time in which they were created. By sharing them as they originally appeared, we aim to accurately reflect the context of our collections for research and educational purposes. These views do not represent the values or beliefs of our institution.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "relati",
+      "label": "Display Full Size",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "https://archives.library.uaf.edu/uncategorized/IO_e3913c93-6c70-4963-af84-a1ea6ea2d5b8/",
+      "controlledVocabList": null
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Map of Kenai mining district and Moose Pass regions, Kenai precinct, Alaska.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "identi",
+      "label": "Identifier",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "UAF-G4372 K452 H1 1910 S55 c2",
+      "controlledVocabList": null
+    },
+    {
+      "key": "creato",
+      "label": "Creator",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Sleem, D. H. (David H.);",
+      "controlledVocabList": null
+    },
+    {
+      "key": "descri",
+      "label": "Description",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Relief shown by hachures.  Shows placer and quartz locations, cabins and trails.  In color.\n\nPublished in Seward, Alaska by D.H. Sleem in 1910.\nScale is [ca. 1:31,680] (W149 55 W149 00 N61 00 N60 20).",
+      "controlledVocabList": null
+    },
+    {
+      "key": "subjea",
+      "label": "Subject.LCSH",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Kenai Peninsula (Alaska) -- Maps; Gold mines and mining -- Alaska -- Kenai Peninsula -- Maps;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "corpor",
+      "label": "Corporate Name",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Alaska Northern Railway;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "locati",
+      "label": "Location",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Kenai Peninsula (Alaska); Seward Highway (Alaska); Girdwood (Alaska); Moose Pass (Alaska); Hope (Alaska); Spencer Glacier (Alaska); Bartlett Glacier (Alaska); Kenai Lake (Alaska); Kenai Mountains (Alaska); Lost Creek (Kenai Peninsula Borough, Alaska); Sunrise (Alaska); Turnagain Arm (Alaska);",
+      "controlledVocabList": null
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Southcentral Alaska;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "covera",
+      "label": "Time Period",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "1896 to 1913;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "1910",
+      "controlledVocabList": null
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Image (Maps);",
+      "controlledVocabList": null
+    },
+    {
+      "key": "collec",
+      "label": "Collection Name",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Rare Maps Collection, Alaska & Polar Regions Collections",
+      "controlledVocabList": null
+    },
+    {
+      "key": "rights",
+      "label": "Ordering & Use",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "For information on ordering and using this material: https://library.uaf.edu/aprca/services/reproductions",
+      "controlledVocabList": null
+    },
+    {
+      "key": "standa",
+      "label": "Standard Citation",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "We ask that our material be cited as follows: Collection Name, Identifier, Archives, University of Alaska Fairbanks.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "holdin",
+      "label": "Holding Institution",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "Alaska and Polar Regions Collections & Archives, Elmer E. Rasmuson Library, University of Alaska Fairbanks",
+      "controlledVocabList": null
+    },
+    {
+      "key": "contac",
+      "label": "Contact Us",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "The Alaska and Polar Regions Collections & Archives is always interested in making its records better. If you would like to help improve or correct this record, please contact us here: https://library.uaf.edu/aprca",
+      "controlledVocabList": null
+    }
+  ],
+  "fullrsEnabled": false,
+  "hasPrintPDF": false,
+  "thumbnailUri": "/api/singleitem/collection/cdmg11/id/10495/thumbnail",
+  "imageUri": "https://vilda.alaska.edu/iiif/2/cdmg11:10495/full/616,/0/default.jpg",
+  "iiifInfoUri": "/iiif/2/cdmg11:10495/info.json",
+  "downloadUri": "/api/collection/cdmg11/id/10495/download",
+  "downloadParentUri": null,
+  "url": null,
+  "streamUri": null,
+  "parent": null,
+  "flatCompoundObjects": null
+}

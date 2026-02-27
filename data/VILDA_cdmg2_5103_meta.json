@@ -1,0 +1,139 @@
+{
+  "requestedId": 5103,
+  "id": 5103,
+  "parentId": -1,
+  "collectionAlias": "cdmg2",
+  "collectionName": "Anchorage Museum at Rasmuson Center",
+  "contentType": "image/jpeg",
+  "filename": "5104.jpg",
+  "title": "Alyeska_ski_area_chair_lift_and_skiers_",
+  "text": null,
+  "pageNumber": null,
+  "imageWidth": 720.0,
+  "imageHeight": 584.0,
+  "fields": [
+    {
+      "key": "collec",
+      "label": "Collection Name",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "AMRC. Ward Wells Collection;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "identi",
+      "label": "Identifier",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "AMRC-wws-3354-14",
+      "controlledVocabList": null
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Alyeska ski area, chair lift, and skiers.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "descri",
+      "label": "Description",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "View of skiers and chair lift at Alyeska ski area at Girdwood, Alaska. Sign in foreground reads: \"Keep tips up.\" Feb. 16, 1961. Photographer: Ward W. Wells. Original photograph size: 8\" x 10\".",
+      "controlledVocabList": null
+    },
+    {
+      "key": "creato",
+      "label": "Creator",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Wells, Ward W.;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "subjec",
+      "label": "Subject.TGM",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Ski lifts; Skiers; Skiing; Men; Women; Children; Winter sports; Signs (Notices)",
+      "controlledVocabList": null
+    },
+    {
+      "key": "subjea",
+      "label": "Subject.LCSH",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Skis and skiing; Ski poles",
+      "controlledVocabList": null
+    },
+    {
+      "key": "locati",
+      "label": "Location",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Girdwood (Alaska); Alyeska (Alaska);",
+      "controlledVocabList": null
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Southcentral Alaska",
+      "controlledVocabList": null
+    },
+    {
+      "key": "covera",
+      "label": "Time Period",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "1959 and later;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Feb. 16, 1961",
+      "controlledVocabList": null
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Image (Photographs);",
+      "controlledVocabList": null
+    },
+    {
+      "key": "rights",
+      "label": "Ordering & Use",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "https://www.anchoragemuseum.org/collections/rights-reproductions/",
+      "controlledVocabList": null
+    },
+    {
+      "key": "holdin",
+      "label": "Holding Institution",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "Anchorage Museum at Rasmuson Center. 625 C Street Anchorage, AK 99501 mailto:resourcecenter@anchoragemuseum.org",
+      "controlledVocabList": null
+    }
+  ],
+  "fullrsEnabled": false,
+  "hasPrintPDF": false,
+  "thumbnailUri": "/api/singleitem/collection/cdmg2/id/5103/thumbnail",
+  "imageUri": "https://vilda.alaska.edu/iiif/2/cdmg2:5103/full/720,/0/default.jpg",
+  "iiifInfoUri": "/iiif/2/cdmg2:5103/info.json",
+  "downloadUri": "/api/collection/cdmg2/id/5103/download",
+  "downloadParentUri": null,
+  "url": null,
+  "streamUri": null,
+  "parent": null,
+  "flatCompoundObjects": null
+}

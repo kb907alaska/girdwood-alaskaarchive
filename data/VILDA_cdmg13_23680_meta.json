@@ -1,0 +1,147 @@
+{
+  "requestedId": 23680,
+  "id": 23680,
+  "parentId": -1,
+  "collectionAlias": "cdmg13",
+  "collectionName": "University of Alaska Anchorage",
+  "contentType": "image/jp2",
+  "filename": "23677.jp2",
+  "title": "Alyeska_chair_lift_June_",
+  "text": null,
+  "pageNumber": null,
+  "imageWidth": 720.0,
+  "imageHeight": 476.0,
+  "fields": [
+    {
+      "key": "identi",
+      "label": "Identifier",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "uaa-hmc-1140-b1-f15-09",
+      "controlledVocabList": null
+    },
+    {
+      "key": "collec",
+      "label": "Collection Name",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Alice and Bob Arwezon photographs, 1949-1973. UAA-HMC-1140",
+      "controlledVocabList": null
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Alyeska chair lift, June 1963.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "descri",
+      "label": "Description",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Title taken from caption. Two people riding on a chair lift at Alyeska with Turnagain Arm in the background. ",
+      "controlledVocabList": null
+    },
+    {
+      "key": "creato",
+      "label": "Creator",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Arwezon, Bob",
+      "controlledVocabList": null
+    },
+    {
+      "key": "requir",
+      "label": "Required citation",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "Alice and Bob Arwezon photographs, Archives and Special Collections, Consortium Library, University of Alaska Anchorage.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "subjec",
+      "label": "Subject",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Ski lifts; ",
+      "controlledVocabList": null
+    },
+    {
+      "key": "locati",
+      "label": "Location",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Girdwood (Alaska);",
+      "controlledVocabList": null
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Southcentral Alaska;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "June 1963",
+      "controlledVocabList": null
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Image (Photographs);",
+      "controlledVocabList": null
+    },
+    {
+      "key": "relati",
+      "label": "Related Materials",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "https://archives.consortiumlibrary.org/collections/specialcollections/hmc-1140/",
+      "controlledVocabList": null
+    },
+    {
+      "key": "righta",
+      "label": "Rights",
+      "controlledVocab": true,
+      "searchable": false,
+      "value": "The Archives holds copyright to this item. Please consult the Archives prior to using.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "rights",
+      "label": "Ordering & Use",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "https://archives.consortiumlibrary.org/collections/online-materials/",
+      "controlledVocabList": null
+    },
+    {
+      "key": "holdin",
+      "label": "Holding Institution",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "University of Alaska Anchorage. Consortium Library. Archives & Special Collections. 3211 Providence Dr. Anchorage, AK 99508 mailto:archives@uaa.alaska.edu",
+      "controlledVocabList": null
+    }
+  ],
+  "fullrsEnabled": false,
+  "hasPrintPDF": false,
+  "thumbnailUri": "/api/singleitem/collection/cdmg13/id/23680/thumbnail",
+  "imageUri": "https://vilda.alaska.edu/iiif/2/cdmg13:23680/full/720,/0/default.jpg",
+  "iiifInfoUri": "/iiif/2/cdmg13:23680/info.json",
+  "downloadUri": "/api/collection/cdmg13/id/23680/download",
+  "downloadParentUri": null,
+  "url": null,
+  "streamUri": null,
+  "parent": null,
+  "flatCompoundObjects": null
+}

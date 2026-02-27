@@ -1,0 +1,155 @@
+{
+  "requestedId": 24884,
+  "id": 24884,
+  "parentId": -1,
+  "collectionAlias": "cdmg13",
+  "collectionName": "University of Alaska Anchorage",
+  "contentType": "image/jp2",
+  "filename": "24875.jp2",
+  "title": "Mt_Alyeska_ski_shop_",
+  "text": null,
+  "pageNumber": null,
+  "imageWidth": 719.0,
+  "imageHeight": 473.0,
+  "fields": [
+    {
+      "key": "identi",
+      "label": "Identifier",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "uaa-hmc-0792-b11-f09-sheet13-02",
+      "controlledVocabList": null
+    },
+    {
+      "key": "collec",
+      "label": "Collection Name",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Ruth A.M. Schmidt papers, 1912-2014. UAA-HMC-0792",
+      "controlledVocabList": null
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Mt Alyeska ski shop, 1963.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "descri",
+      "label": "Description",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Title taken from caption on slide mount, which continues: \" + end of chair lift.\" View of the Mt. Alyeska ski resort ski shop and a wooden  shelter, possibly for people to wait for the ski lift. People can be seen walking around, and skis are leaning against the side of the shop and on a rack outside. a sign on a utility pole reads: \" Welcome to Mt. Alyeska Information and Tickets at Lodge.\"",
+      "controlledVocabList": null
+    },
+    {
+      "key": "creato",
+      "label": "Creator",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Schmidt, Ruth Ann Marie (1916-2014);",
+      "controlledVocabList": null
+    },
+    {
+      "key": "requir",
+      "label": "Required citation",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "Ruth A.M. Schmidt papers, Archives and Special Collections, Consortium Library, University of Alaska Anchorage.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "subjec",
+      "label": "Subject",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Ski resorts; Skiers; Skiing; Utility poles; Signs (Notices); Shelters;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "corpor",
+      "label": "Corporate Name",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Alyeska Resort;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "locati",
+      "label": "Location",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Girdwood (Alaska);",
+      "controlledVocabList": null
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Southcentral Alaska;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "April 5, 1963",
+      "controlledVocabList": null
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Image (Photographs);",
+      "controlledVocabList": null
+    },
+    {
+      "key": "relati",
+      "label": "Related Materials",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "https://archives.consortiumlibrary.org/collections/specialcollections/hmc-0792/",
+      "controlledVocabList": null
+    },
+    {
+      "key": "righta",
+      "label": "Rights",
+      "controlledVocab": true,
+      "searchable": false,
+      "value": "The Archives holds copyright to this item. Please consult the Archives prior to using.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "rights",
+      "label": "Ordering & Use",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "https://archives.consortiumlibrary.org/collections/online-materials/",
+      "controlledVocabList": null
+    },
+    {
+      "key": "holdin",
+      "label": "Holding Institution",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "University of Alaska Anchorage. Consortium Library. Archives & Special Collections. 3211 Providence Dr. Anchorage, AK 99508, 1-907-786-1849. mailto:https://archives.consortiumlibrary.org/contact-us",
+      "controlledVocabList": null
+    }
+  ],
+  "fullrsEnabled": false,
+  "hasPrintPDF": false,
+  "thumbnailUri": "/api/singleitem/collection/cdmg13/id/24884/thumbnail",
+  "imageUri": "https://vilda.alaska.edu/iiif/2/cdmg13:24884/full/719,/0/default.jpg",
+  "iiifInfoUri": "/iiif/2/cdmg13:24884/info.json",
+  "downloadUri": "/api/collection/cdmg13/id/24884/download",
+  "downloadParentUri": null,
+  "url": null,
+  "streamUri": null,
+  "parent": null,
+  "flatCompoundObjects": null
+}

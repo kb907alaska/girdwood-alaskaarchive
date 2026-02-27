@@ -1,0 +1,123 @@
+{
+  "requestedId": 25252,
+  "id": 25252,
+  "parentId": -1,
+  "collectionAlias": "cdmg21",
+  "collectionName": "Alaska State Library-Historical Collections",
+  "contentType": "image/jp2",
+  "filename": "25183.jp2",
+  "title": "Girdwood_Alaska_",
+  "text": null,
+  "pageNumber": null,
+  "imageWidth": 719.0,
+  "imageHeight": 720.0,
+  "fields": [
+    {
+      "key": "title",
+      "label": "Title",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Girdwood Alaska. ",
+      "controlledVocabList": null
+    },
+    {
+      "key": "identi",
+      "label": "Identifier",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "ASL-P448-426",
+      "controlledVocabList": null
+    },
+    {
+      "key": "collec",
+      "label": "Collection Name",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Clinton H. Bentz Photograph Collection, 1943-1944. ASL-PCA-448;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "descri",
+      "label": "Description",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Title from finding aid.  Field overgrown with dandelions, grass, and fireweed.  Evergreen tree at the edge of the field.  Behind the tree are two log cabins, one to the left of the tree and one on the right.   ",
+      "controlledVocabList": null
+    },
+    {
+      "key": "subjec",
+      "label": "Subject.TGM",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Meadows; Flowers; Evergreens; Log cabins;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "locati",
+      "label": "Location",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Girdwood (Alaska);",
+      "controlledVocabList": null
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Southcentral Alaska;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "date",
+      "label": "Date.original",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "1944-06",
+      "controlledVocabList": null
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Image (Photographs);",
+      "controlledVocabList": null
+    },
+    {
+      "key": "relati",
+      "label": "Related Materials",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "Alaska Library Catalog Collection Record: https://anch.ent.sirsi.net/ client/en_US/asl/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:1742909/ada, Finding Aid: https://alaska.libraryhost.com/repositories/2/resources/544",
+      "controlledVocabList": null
+    },
+    {
+      "key": "rights",
+      "label": "Ordering & Use",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "https://library.alaska.gov/hist/vilda_rights.html",
+      "controlledVocabList": null
+    },
+    {
+      "key": "holdin",
+      "label": "Holding Institution",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "Alaska State Library - Historical Collections, PO Box 110571, Juneau AK 99811-0571; mailto:asl.historical@alaska.gov",
+      "controlledVocabList": null
+    }
+  ],
+  "fullrsEnabled": false,
+  "hasPrintPDF": false,
+  "thumbnailUri": "/api/singleitem/collection/cdmg21/id/25252/thumbnail",
+  "imageUri": "https://vilda.alaska.edu/iiif/2/cdmg21:25252/full/719,/0/default.jpg",
+  "iiifInfoUri": "/iiif/2/cdmg21:25252/info.json",
+  "downloadUri": "/api/collection/cdmg21/id/25252/download",
+  "downloadParentUri": null,
+  "url": null,
+  "streamUri": null,
+  "parent": null,
+  "flatCompoundObjects": null
+}

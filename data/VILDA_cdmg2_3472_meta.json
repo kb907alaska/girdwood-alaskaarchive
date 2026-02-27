@@ -1,0 +1,123 @@
+{
+  "requestedId": 3472,
+  "id": 3472,
+  "parentId": -1,
+  "collectionAlias": "cdmg2",
+  "collectionName": "Anchorage Museum at Rasmuson Center",
+  "contentType": "image/jpeg",
+  "filename": "3473.jpg",
+  "title": "Aerial_view_of_Alyeska_Resort_",
+  "text": null,
+  "pageNumber": null,
+  "imageWidth": 720.0,
+  "imageHeight": 586.0,
+  "fields": [
+    {
+      "key": "collec",
+      "label": "Collection Name",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "AMRC. Wien Collection;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "identi",
+      "label": "Identifier",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "AMRC-b85-27-791",
+      "controlledVocabList": null
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Aerial view of Alyeska Resort.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "descri",
+      "label": "Description",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Aerial view of Girdwood, Alaska and Alyeska resort, showing hotel in foreground. Early 1960's. Original photograph size: 8\" x 10\".",
+      "controlledVocabList": null
+    },
+    {
+      "key": "subjec",
+      "label": "Subject.TGM",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Buildings; Hotels; Resorts; Cities & towns; Roads",
+      "controlledVocabList": null
+    },
+    {
+      "key": "locati",
+      "label": "Location",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Girdwood (Alaska)",
+      "controlledVocabList": null
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Southcentral Alaska",
+      "controlledVocabList": null
+    },
+    {
+      "key": "covera",
+      "label": "Time Period",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "1959 and later;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "1960-1964",
+      "controlledVocabList": null
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Image (Photographs); Image (Aerial photographs)",
+      "controlledVocabList": null
+    },
+    {
+      "key": "rights",
+      "label": "Ordering & Use",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "https://www.anchoragemuseum.org/collections/rights-reproductions/",
+      "controlledVocabList": null
+    },
+    {
+      "key": "holdin",
+      "label": "Holding Institution",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "Anchorage Museum at Rasmuson Center. 625 C Street Anchorage, AK 99501 mailto:resourcecenter@anchoragemuseum.org",
+      "controlledVocabList": null
+    }
+  ],
+  "fullrsEnabled": false,
+  "hasPrintPDF": false,
+  "thumbnailUri": "/api/singleitem/collection/cdmg2/id/3472/thumbnail",
+  "imageUri": "https://vilda.alaska.edu/iiif/2/cdmg2:3472/full/720,/0/default.jpg",
+  "iiifInfoUri": "/iiif/2/cdmg2:3472/info.json",
+  "downloadUri": "/api/collection/cdmg2/id/3472/download",
+  "downloadParentUri": null,
+  "url": null,
+  "streamUri": null,
+  "parent": null,
+  "flatCompoundObjects": null
+}

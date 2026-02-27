@@ -1,0 +1,131 @@
+{
+  "requestedId": 25246,
+  "id": 25246,
+  "parentId": -1,
+  "collectionAlias": "cdmg21",
+  "collectionName": "Alaska State Library-Historical Collections",
+  "contentType": "image/jp2",
+  "filename": "25163.jp2",
+  "title": "Clinton_Betz_Girdwood_",
+  "text": null,
+  "pageNumber": null,
+  "imageWidth": 720.0,
+  "imageHeight": 717.0,
+  "fields": [
+    {
+      "key": "title",
+      "label": "Title",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Clinton Betz. Girdwood. ",
+      "controlledVocabList": null
+    },
+    {
+      "key": "identi",
+      "label": "Identifier",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "ASL-P448-425",
+      "controlledVocabList": null
+    },
+    {
+      "key": "collec",
+      "label": "Collection Name",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Clinton H. Bentz Photograph Collection, 1943-1944. ASL-PCA-448;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "descri",
+      "label": "Description",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Title from finding aid.  Clinton Betz sits on a rock, turned partially to the right looking off camera.  In the background is a river.  ",
+      "controlledVocabList": null
+    },
+    {
+      "key": "subjec",
+      "label": "Subject.TGM",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Men; Boulders; Rivers;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "person",
+      "label": "Personal Name",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Betz, Clinton H.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "locati",
+      "label": "Location",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Girdwood (Alaska);",
+      "controlledVocabList": null
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Southcentral Alaska;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "date",
+      "label": "Date.original",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "1944-07",
+      "controlledVocabList": null
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Image (Portrait photographs);",
+      "controlledVocabList": null
+    },
+    {
+      "key": "relati",
+      "label": "Related Materials",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "Alaska Library Catalog Collection Record: https://anch.ent.sirsi.net/ client/en_US/asl/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:1742909/ada, Finding Aid: https://alaska.libraryhost.com/repositories/2/resources/544",
+      "controlledVocabList": null
+    },
+    {
+      "key": "rights",
+      "label": "Ordering & Use",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "https://library.alaska.gov/hist/vilda_rights.html",
+      "controlledVocabList": null
+    },
+    {
+      "key": "holdin",
+      "label": "Holding Institution",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "Alaska State Library - Historical Collections, PO Box 110571, Juneau AK 99811-0571; mailto:asl.historical@alaska.gov",
+      "controlledVocabList": null
+    }
+  ],
+  "fullrsEnabled": false,
+  "hasPrintPDF": false,
+  "thumbnailUri": "/api/singleitem/collection/cdmg21/id/25246/thumbnail",
+  "imageUri": "https://vilda.alaska.edu/iiif/2/cdmg21:25246/full/720,/0/default.jpg",
+  "iiifInfoUri": "/iiif/2/cdmg21:25246/info.json",
+  "downloadUri": "/api/collection/cdmg21/id/25246/download",
+  "downloadParentUri": null,
+  "url": null,
+  "streamUri": null,
+  "parent": null,
+  "flatCompoundObjects": null
+}

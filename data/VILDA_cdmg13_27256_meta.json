@@ -1,0 +1,171 @@
+{
+  "requestedId": 27256,
+  "id": 27256,
+  "parentId": -1,
+  "collectionAlias": "cdmg13",
+  "collectionName": "University of Alaska Anchorage",
+  "contentType": "application/pdf",
+  "filename": "27231.pdf",
+  "title": "Chugach_State_Park_a_proposal_circa_",
+  "text": null,
+  "pageNumber": null,
+  "imageWidth": 1275.0,
+  "imageHeight": 1650.0,
+  "fields": [
+    {
+      "key": "identi",
+      "label": "Identifier",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "uaa-eph-0596",
+      "controlledVocabList": null
+    },
+    {
+      "key": "collec",
+      "label": "Collection Name",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Chugach State Park Ad Hoc Committee \u201cChugach State Park: a proposal,\u201d circa 1969. UAA-EPH-0596",
+      "controlledVocabList": null
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "Chugach State Park: a proposal, circa 1969.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "descri",
+      "label": "Description",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "A pamphlet written by the Chugach Ad Hoc Committee, the Mountaineering Club of Alaska, and the Nordic Ski Club in support of the creation of a state park in the Anchorage area covering from Girdwood in the south to Eklutna in the north. The pamplet details the Committee's interest in creating the state park, the legislative means to establishing it, a map of the proposed boundaries, and some historical information about the location. To view the full text-searchable PDF, click on the download link or the expand button in the upper right of the image. ",
+      "controlledVocabList": null
+    },
+    {
+      "key": "creato",
+      "label": "Creator",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Chugach State Park Ad Hoc Committee",
+      "controlledVocabList": null
+    },
+    {
+      "key": "contri",
+      "label": "Contributors",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Mountaineering Club of Alaska (Anchorage, Alaska); Nordic Ski Club of Anchorage",
+      "controlledVocabList": null
+    },
+    {
+      "key": "requir",
+      "label": "Required citation",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "Chugach State Park Ad Hoc Committee \"Chugach State Park: a proposal,\" Archives and Special Collections, Consortium Library, University of Alaska Anchorage.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "subjec",
+      "label": "Subject",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Parks; State parks & reserves;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "person",
+      "label": "Personal Name",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Beirne, Helen; Thomas, Lowell 1923-; Josephson, Joseph; Babcock, Primula; Cissna, Sharon; Renner, Randy; Baily, Doug;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "locati",
+      "label": "Location",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Anchorage (Alaska);",
+      "controlledVocabList": null
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Southcentral Alaska;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "controlledVocab": false,
+      "searchable": true,
+      "value": "1969?",
+      "controlledVocabList": null
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "Text;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "langua",
+      "label": "Language",
+      "controlledVocab": true,
+      "searchable": true,
+      "value": "English;",
+      "controlledVocabList": null
+    },
+    {
+      "key": "relati",
+      "label": "Related Materials",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "https://archives.consortiumlibrary.org/collections/ephemera-collections/",
+      "controlledVocabList": null
+    },
+    {
+      "key": "righta",
+      "label": "Rights",
+      "controlledVocab": true,
+      "searchable": false,
+      "value": "The Archives does not hold copyright to this item.  Please contact the Archives prior to using.",
+      "controlledVocabList": null
+    },
+    {
+      "key": "rights",
+      "label": "Ordering & Use",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "https://archives.consortiumlibrary.org/collections/online-materials/",
+      "controlledVocabList": null
+    },
+    {
+      "key": "holdin",
+      "label": "Holding Institution",
+      "controlledVocab": false,
+      "searchable": false,
+      "value": "University of Alaska Anchorage. Consortium Library. Archives & Special Collections. 3211 Providence Dr. Anchorage, AK 99508 mailto:archives@uaa.alaska.edu",
+      "controlledVocabList": null
+    }
+  ],
+  "fullrsEnabled": false,
+  "hasPrintPDF": false,
+  "thumbnailUri": "/api/singleitem/collection/cdmg13/id/27256/thumbnail",
+  "imageUri": "https://vilda.alaska.edu/iiif/2/cdmg13:27256/full/730,/0/default.jpg",
+  "iiifInfoUri": "/iiif/2/cdmg13:27256/info.json",
+  "downloadUri": "/api/collection/cdmg13/id/27256/download",
+  "downloadParentUri": null,
+  "url": null,
+  "streamUri": null,
+  "parent": null,
+  "flatCompoundObjects": null
+}
