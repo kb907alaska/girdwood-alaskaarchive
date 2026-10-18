@@ -2,5 +2,8 @@
 *.sqlite
 *.db
 data/raw/
+data/local/
+node_modules/
+dist/
 __pycache__/
 *.pyc

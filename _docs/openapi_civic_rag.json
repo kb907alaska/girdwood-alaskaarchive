@@ -1,0 +1,207 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Girdwood Civic Archive RAG & Search API",
+    "version": "1.0.0",
+    "description": "Public records search and citation-backed AI questions for Girdwood, Alaska municipal proceedings. Queries the independent D1 SQLite FTS5 database and Cloudflare Workers AI.",
+    "contact": {
+      "name": "AlaskaArchive",
+      "url": "https://girdwood.city/archive"
+    },
+    "license": {
+      "name": "Open Public Record Data (CC0 1.0)",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://archive.girdwood.city",
+      "description": "Production Civic RAG API"
+    },
+    {
+      "url": "http://localhost:8787",
+      "description": "Local development worker"
+    }
+  ],
+  "paths": {
+    "/api/health": {
+      "get": {
+        "summary": "Health and index stats",
+        "description": "Returns status and count of currently indexed municipal documents in D1.",
+        "responses": {
+          "200": {
+            "description": "Service healthy",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "status": { "type": "string", "example": "ok" },
+                    "indexed_documents": { "type": "integer", "example": 430 }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/search": {
+      "get": {
+        "summary": "Exact keyword and filtered document search",
+        "description": "Executes FTS5 BM25 ranked keyword queries against extracted document pages, filtered by board, document type, organization, and year bounds.",
+        "parameters": [
+          {
+            "name": "q",
+            "in": "query",
+            "required": true,
+            "description": "Search query terms (e.g. Holtan Hills, workforce housing, tram)",
+            "schema": { "type": "string", "maxLength": 240 }
+          },
+          {
+            "name": "committee",
+            "in": "query",
+            "required": false,
+            "description": "Filter by committee or board (GBOS, LUC, GTC, GHEC, PSAC)",
+            "schema": { "type": "string" }
+          },
+          {
+            "name": "type",
+            "in": "query",
+            "required": false,
+            "description": "Filter by document type (minutes, packet, resolution, letter)",
+            "schema": { "type": "string" }
+          },
+          {
+            "name": "organization",
+            "in": "query",
+            "required": false,
+            "description": "Filter by originating organization ID",
+            "schema": { "type": "string" }
+          },
+          {
+            "name": "from",
+            "in": "query",
+            "required": false,
+            "description": "Start year (inclusive)",
+            "schema": { "type": "integer", "minimum": 1990, "maximum": 2030 }
+          },
+          {
+            "name": "to",
+            "in": "query",
+            "required": false,
+            "description": "End year (inclusive)",
+            "schema": { "type": "integer", "minimum": 1990, "maximum": 2030 }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "List of matching document passages with exact page citations and municipal URLs",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "q": { "type": "string" },
+                    "count": { "type": "integer" },
+                    "hits": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/SearchHit"
+                      }
+                    },
+                    "scope": { "type": "string" }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/ask": {
+      "post": {
+        "summary": "AI Question with verifiable source citations",
+        "description": "Retrieves matching passages via FTS5 and generates a synthesis using Cloudflare Workers AI with strict numeric citations ([1], [2]). Distinguishes proposals from decisions.",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": ["question"],
+                "properties": {
+                  "question": {
+                    "type": "string",
+                    "maxLength": 240,
+                    "example": "What resolutions has GBOS passed regarding the Holtan Hills development?"
+                  },
+                  "filters": {
+                    "type": "object",
+                    "properties": {
+                      "committee": { "type": "string" },
+                      "type": { "type": "string" },
+                      "from": { "type": "string" },
+                      "to": { "type": "string" }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "AI answer with source citations and passage bibliography",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "answer": { "type": "string", "nullable": true },
+                    "sources": {
+                      "type": "array",
+                      "items": { "$ref": "#/components/schemas/SearchHit" }
+                    },
+                    "mode": { "type": "string", "enum": ["cited_ai", "evidence_only", "no_evidence"] },
+                    "caution": { "type": "string" }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "SearchHit": {
+        "type": "object",
+        "properties": {
+          "document_id": { "type": "string" },
+          "title": { "type": "string" },
+          "original_url": { "type": "string", "format": "uri" },
+          "committee": { "type": "string" },
+          "document_type": { "type": "string" },
+          "year_hint": { "type": "integer", "nullable": true },
+          "meeting_date": { "type": "string", "nullable": true },
+          "version_status": { "type": "string" },
+          "page_number": { "type": "integer" },
+          "passage": { "type": "string" },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "organization": { "type": "string" },
+                "page_url": { "type": "string" },
+                "href_as_published": { "type": "string" }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
