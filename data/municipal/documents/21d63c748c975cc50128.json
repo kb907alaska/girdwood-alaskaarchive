@@ -1,0 +1,14 @@
+{
+  "id": "21d63c748c975cc50128",
+  "source_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/2021-14%20CUP%20Larson%20Lot%201.pdf",
+  "fetched_utc": "2026-10-18T16:39:48+00:00",
+  "sha256": "7ed213e1a6bd4848bf86024f81b8cbcdbe44872e248840eee42ee8cbcf6c557b",
+  "text_status": "extracted",
+  "pages": [
+    {
+      "page": 1,
+      "text": "",
+      "ocr_required": true
+    }
+  ]
+}

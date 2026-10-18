@@ -1,0 +1,19 @@
+{
+  "id": "16655e5bc953a8d88be9",
+  "source_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/2021-11%20Domestic%20Violence.pdf",
+  "fetched_utc": "2026-10-18T16:39:35+00:00",
+  "sha256": "743a331f13554795c215f3e5015573cc137e3ad7f441041b60669a8f2b354ea6",
+  "text_status": "extracted",
+  "pages": [
+    {
+      "page": 1,
+      "text": "",
+      "ocr_required": true
+    },
+    {
+      "page": 2,
+      "text": "",
+      "ocr_required": true
+    }
+  ]
+}
