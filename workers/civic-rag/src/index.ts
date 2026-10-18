@@ -103,6 +103,41 @@ export default {
     }
     const url=new URL(request.url);
     try {
+      if(url.pathname==="/api/graph" && request.method==="GET") {
+        const nodes = await env.DB.prepare(`
+          SELECT n.id, n.kind, n.title, n.description, n.occurred_on, n.year_hint,
+                 n.date_precision, n.status, n.decision_outcome, n.canonical_slug,
+                 n.latitude, n.longitude,
+                 COALESCE((SELECT json_group_array(json_object('url', s.source_url, 'org', s.source_organization, 'page', s.page_number))
+                   FROM graph_node_sources s WHERE s.node_id = n.id), '[]') AS sources_json
+          FROM graph_nodes n
+          ORDER BY n.year_hint ASC, n.occurred_on ASC
+          LIMIT 100
+        `).all<{id:string;kind:string;title:string;description:string|null;occurred_on:string|null;year_hint:number|null;date_precision:string;status:string;decision_outcome:string|null;canonical_slug:string|null;latitude:number|null;longitude:number|null;sources_json:string}>();
+        const edges = await env.DB.prepare(`
+          SELECT e.id, e.from_node_id, e.to_node_id, e.relation, e.evidence_status, e.extraction_method, e.reviewer_note
+          FROM graph_edges e
+          LIMIT 200
+        `).all<{id:string;from_node_id:string;to_node_id:string;relation:string;evidence_status:string;extraction_method:string;reviewer_note:string|null}>();
+        return json({
+          nodes: (nodes.results || []).map(n => ({...n, sources: JSON.parse(n.sources_json || '[]')})),
+          edges: edges.results || []
+        }, 200, origin);
+      }
+      if(url.pathname.startsWith("/api/nodes/") && request.method==="GET") {
+        const id = decodeURIComponent(url.pathname.replace("/api/nodes/", ""));
+        const node = await env.DB.prepare("SELECT * FROM graph_nodes WHERE id = ?").bind(id).first();
+        if(!node) return json({error: "Node not found"}, 404, origin);
+        const sources = await env.DB.prepare("SELECT source_url, source_organization, page_number FROM graph_node_sources WHERE node_id = ?").bind(id).all();
+        const inbound = await env.DB.prepare("SELECT id, from_node_id, relation, evidence_status FROM graph_edges WHERE to_node_id = ?").bind(id).all();
+        const outbound = await env.DB.prepare("SELECT id, to_node_id, relation, evidence_status FROM graph_edges WHERE from_node_id = ?").bind(id).all();
+        return json({
+          node,
+          sources: sources.results || [],
+          inbound_edges: inbound.results || [],
+          outbound_edges: outbound.results || []
+        }, 200, origin);
+      }
       if(url.pathname==="/api/health" && request.method==="GET") {
         const count=await env.DB.prepare("SELECT COUNT(*) n FROM documents").first<{n:number}>();
         return json({status:"ok",indexed_documents:count?.n||0},200,origin);
