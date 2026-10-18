@@ -99,7 +99,40 @@ VALUES
 
 ('node-holtan-gbos-2025', 'resolution', 'GBOS Resolution 2025-22 (PUD Housing & Buffer Conditions)',
  'GBOS resolution providing formal recommendations on Holtan Hills Conditional Use / PUD housing, buffer protections, and community trust covenants.',
- '2025-05-19', 2025, 'day', 'source_verified', 'approved', 'gbos-res-2025-22-holtan', 60.955, -149.135, '2026-10-18T17:00:00Z');
+ '2025-05-19', 2025, 'day', 'source_verified', 'approved', 'gbos-res-2025-22-holtan', 60.955, -149.135, '2026-10-18T17:00:00Z'),
+-- Winner Creek Gorge Bridge Trajectory (2017–2025)
+('node-winner-usfs-2017', 'decision', 'USFS & GBOS Trail Stewardship Agreement',
+ 'Formal cooperative stewardship agreement executed for Winner Creek and Iditarod National Historic Trail valley corridors.',
+ '2017-06-01', 2017, 'year', 'source_verified', 'approved', 'usfs-gbos-mou-2017', 60.965, -149.105, '2026-10-18T19:00:00Z'),
+
+('node-winner-res02-2022', 'resolution', 'GBOS Resolution 2022-02 (Suspension Bridge Replacement)',
+ 'GBOS approved resolution supporting engineering and construction of a permanent pedestrian suspension bridge over Winner Creek Gorge to replace the closed hand tram.',
+ '2022-01-17', 2022, 'day', 'source_verified', 'approved', 'gbos-res-2022-02-winner', 60.965, -149.105, '2026-10-18T19:00:00Z'),
+
+('node-winner-res18-2023', 'resolution', 'GBOS Resolution 2023-18 (State RTP Grant Application)',
+ 'GBOS passed resolution supporting State of Alaska Recreational Trails Program (RTP) grant application to fund construction of the Winner Creek gorge suspension bridge.',
+ '2023-05-15', 2023, 'day', 'source_verified', 'approved', 'gbos-res-2023-18-winner', 60.965, -149.105, '2026-10-18T19:00:00Z'),
+
+('node-winner-bridge-open-2025', 'project', 'Winner Creek Gorge Suspension Bridge Reopening',
+ 'The permanent 130-foot pedestrian suspension bridge over Winner Creek Gorge was completed and opened, restoring the popular non-motorized link between Alyeska and Crow Creek.',
+ '2025-07-01', 2025, 'month', 'source_verified', 'approved', 'winner-creek-bridge-open-2025', 60.965, -149.105, '2026-10-18T19:00:00Z'),
+
+-- Girdwood Cemetery Siting & Bonding Trajectory (2016–2024)
+('node-cemetery-study-2016', 'proposal', 'Girdwood Cemetery Feasibility Study Completed',
+ 'Comprehensive engineering study analyzed site conditions, water tables, and community need for a dedicated public cemetery along the Crow Creek Road corridor.',
+ '2016-12-01', 2016, 'month', 'source_verified', 'approved', 'cemetery-feasibility-2016', 60.960, -149.130, '2026-10-18T19:00:00Z'),
+
+('node-cemetery-res20-2022', 'resolution', 'GBOS Resolution 2022-20 (Cemetery Bonding Initiative)',
+ 'GBOS approved resolution requesting municipal assembly place a capital improvement bond proposition on the ballot for Girdwood Cemetery land dedication and design.',
+ '2022-11-21', 2022, 'day', 'source_verified', 'approved', 'gbos-res-2022-20-cemetery', 60.960, -149.130, '2026-10-18T19:00:00Z'),
+
+('node-cemetery-res10-2023', 'resolution', 'GBOS Resolution 2023-10 (Cemetery Powers & Governance)',
+ 'GBOS requested Municipal Assembly action regarding cemetery powers under AMC 27.20 to enable Girdwood Valley Service Area operation and perpetual care management.',
+ '2023-06-19', 2023, 'day', 'source_verified', 'approved', 'gbos-res-2023-10-cemetery', 60.960, -149.130, '2026-10-18T19:00:00Z'),
+
+('node-cemetery-bond-2024', 'decision', 'GBOS Resolution 2023-25 & Municipal Ballot Proposition',
+ 'Municipal Assembly placed Girdwood Cemetery capital bond on the regular municipal ballot, authorizing voter ratification for Phase 1 construction and access road funding.',
+ '2024-04-02', 2024, 'day', 'source_verified', 'approved', 'cemetery-ballot-bond-2024', 60.960, -149.130, '2026-10-18T19:00:00Z');
 
 
 -- 2. GRAPH EDGES (Verified Chronological & Deliberation Deliberation Relationships)
@@ -127,7 +160,16 @@ VALUES
 -- Holtan Hills Land Disposal & Housing Trajectory
 ('edge-holtan-1', 'node-holtan-hlb-2021', 'node-holtan-gbos-2022', 'considered_by', 'verified', 'human', 'HLB proposal submitted to GBOS for local community advisory review.', '2026-10-18T17:00:00Z'),
 ('edge-holtan-2', 'node-holtan-gbos-2022', 'node-holtan-assembly-2022', 'proposed_at', 'verified', 'human', 'Disposal agreement introduced to Assembly as AO 2022-100; postponed.', '2026-10-18T17:00:00Z'),
-('edge-holtan-3', 'node-holtan-assembly-2022', 'node-holtan-gbos-2025', 'amended_by', 'verified', 'human', 'Subsequent PUD and conditional use recommendations formulated under Resolution 2025-22.', '2026-10-18T17:00:00Z');
+('edge-holtan-3', 'node-holtan-assembly-2022', 'node-holtan-gbos-2025', 'amended_by', 'verified', 'human', 'Subsequent PUD and conditional use recommendations formulated under Resolution 2025-22.', '2026-10-18T17:00:00Z'),
+-- Winner Creek Deliberation Trajectory
+('edge-winner-1', 'node-winner-usfs-2017', 'node-winner-res02-2022', 'superseded_by', 'verified', 'human', 'Hand tram safety closure led to GBOS resolution selecting suspension bridge alternative.', '2026-10-18T19:00:00Z'),
+('edge-winner-2', 'node-winner-res02-2022', 'node-winner-res18-2023', 'contributed_to', 'verified', 'human', 'Suspension bridge endorsement led to formal RTP grant application.', '2026-10-18T19:00:00Z'),
+('edge-winner-3', 'node-winner-res18-2023', 'node-winner-bridge-open-2025', 'implemented_by', 'verified', 'human', 'State RTP grant funding constructed and completed the 130-ft suspension bridge.', '2026-10-18T19:00:00Z'),
+
+-- Cemetery Siting & Bonding Trajectory
+('edge-cemetery-1', 'node-cemetery-study-2016', 'node-cemetery-res20-2022', 'contributed_to', 'verified', 'human', 'Feasibility study provided technical basis for GBOS cemetery bonding resolution.', '2026-10-18T19:00:00Z'),
+('edge-cemetery-2', 'node-cemetery-res20-2022', 'node-cemetery-res10-2023', 'considered_by', 'verified', 'human', 'Bonding initiative required formal municipal cemetery powers under AMC 27.20.', '2026-10-18T19:00:00Z'),
+('edge-cemetery-3', 'node-cemetery-res10-2023', 'node-cemetery-bond-2024', 'adopted_by', 'verified', 'human', 'Assembly approved ordinance placing cemetery bond on municipal ballot.', '2026-10-18T19:00:00Z');
 
 
 -- 3. GRAPH NODE SOURCES (Primary Document Links & Verification Proof)
@@ -152,6 +194,14 @@ VALUES
 ('node-holtan-hlb-2021', 'https://www.muni.org/Departments/hlb/Pages/HoltanHills.aspx', 'Heritage Land Bank', 1),
 ('node-holtan-gbos-2022', 'https://www.muni.org/Departments/operations/streets/Service/GBOS/2022%20GBOS%20Resolution%20list.pdf', 'Girdwood Board of Supervisors', 1),
 ('node-holtan-assembly-2022', 'https://www.muni.org/Departments/hlb/Pages/HoltanHills.aspx', 'Municipality of Anchorage Assembly', 1),
-('node-holtan-gbos-2025', 'https://www.muni.org/Departments/operations/streets/Service/GBOS/2025-22%20Holtan%20Hills%20CU%20PUD%20Housing.pdf', 'Girdwood Board of Supervisors', 1);
+('node-holtan-gbos-2025', 'https://www.muni.org/Departments/operations/streets/Service/GBOS/2025-22%20Holtan%20Hills%20CU%20PUD%20Housing.pdf', 'Girdwood Board of Supervisors', 1),
+('node-winner-usfs-2017', 'https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodtrailscommittee.aspx', 'US Forest Service & GBOS', 1),
+('node-winner-res02-2022', 'https://www.muni.org/Departments/operations/streets/Service/GBOS/2022-02%20Suspension%20Bridge%20for%20Winner%20Creek%20Trail%20amended.pdf', 'Girdwood Board of Supervisors', 1),
+('node-winner-res18-2023', 'https://www.muni.org/Departments/operations/streets/Service/GBOS/2023-18%20Middle%20INHT%20RTP%20grant%20application.docx.pdf', 'Girdwood Board of Supervisors', 1),
+('node-winner-bridge-open-2025', 'https://www.muni.org/Departments/operations/streets/Service/GBOS/2025%20GVSA%20Parks%20and%20Rec%20Year%20end%20report.pdf', 'GVSA Parks & Recreation / GTC', 1),
+('node-cemetery-study-2016', 'https://www.muni.org/Departments/operations/streets/Service/GBOS/Girdwood%20Cemetery%20Feasibility%20Dec%202016%20final--.pdf', 'Municipality of Anchorage / Cemetery Study', 1),
+('node-cemetery-res20-2022', 'https://www.muni.org/Departments/operations/streets/Service/GBOS/2022-20%20Girdwood%20Cemetery%20bonding%202023.pdf', 'Girdwood Board of Supervisors', 1),
+('node-cemetery-res10-2023', 'https://www.muni.org/Departments/operations/streets/Service/GBOS/2023-10%20Cemetery%20as%20Areawide%20Power.pdf', 'Girdwood Board of Supervisors', 1),
+('node-cemetery-bond-2024', 'https://www.muni.org/Departments/operations/streets/Service/GBOS/2023-25%20Cemetery%20Bond%202024.pdf', 'Anchorage Municipal Assembly / GBOS', 1);
 
 COMMIT;
