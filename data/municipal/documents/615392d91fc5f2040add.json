@@ -1,0 +1,14 @@
+{
+  "id": "615392d91fc5f2040add",
+  "source_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/2022-10%20HB411.pdf",
+  "fetched_utc": "2026-10-18T18:19:29+00:00",
+  "sha256": "82399b4b63428133023431be1a94e4bdf4e57bcd1d4046f771c4c7a068d240c3",
+  "text_status": "extracted",
+  "pages": [
+    {
+      "page": 1,
+      "text": "",
+      "ocr_required": true
+    }
+  ]
+}

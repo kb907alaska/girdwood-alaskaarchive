@@ -1,0 +1,14 @@
+{
+  "id": "563d5004d30b4f9360b3",
+  "source_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/2022-07%20Alyeska%20Housing%20II%20DMP.pdf",
+  "fetched_utc": "2026-10-18T18:18:51+00:00",
+  "sha256": "9b11f89fbfc57561bf3b67956b10a8a49dc258d5cc1670f6aaf7a323bbb0d21f",
+  "text_status": "extracted",
+  "pages": [
+    {
+      "page": 1,
+      "text": "",
+      "ocr_required": true
+    }
+  ]
+}

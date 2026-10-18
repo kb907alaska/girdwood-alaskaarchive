@@ -96,8 +96,8 @@ def discover(html, page_url, board):
         }
     return found
 
-def fetch(url, limit_mb=35):
-    with SESSION.get(url, timeout=(15, 90), stream=True, allow_redirects=True) as response:
+def fetch(url, limit_mb=160):
+    with SESSION.get(url, timeout=(15, 120), stream=True, allow_redirects=True) as response:
         response.raise_for_status()
         length = int(response.headers.get("content-length", "0"))
         if length > limit_mb * 1024 * 1024:

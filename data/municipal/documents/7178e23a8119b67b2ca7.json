@@ -1,0 +1,19 @@
+{
+  "id": "7178e23a8119b67b2ca7",
+  "source_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/LOO%20Platting%20Board%20Mesick%20Variance%20S12532.pdf",
+  "fetched_utc": "2026-10-18T18:20:18+00:00",
+  "sha256": "9dd7f222f2f7d0bf147024ca5a47d97c1cc7642e9c11876de9926812c6d58798",
+  "text_status": "extracted",
+  "pages": [
+    {
+      "page": 1,
+      "text": "",
+      "ocr_required": true
+    },
+    {
+      "page": 2,
+      "text": "",
+      "ocr_required": true
+    }
+  ]
+}

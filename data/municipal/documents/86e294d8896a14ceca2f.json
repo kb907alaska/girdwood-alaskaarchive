@@ -1,0 +1,19 @@
+{
+  "id": "86e294d8896a14ceca2f",
+  "source_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/2021-18%20Attainable%20Housing%20in%20HLB%20Disposal%20Agreement.pdf",
+  "fetched_utc": "2026-10-18T18:21:20+00:00",
+  "sha256": "bb3d5d9e6e5852a2296cd8185d54c7c291ae9255962f1410ce26c8b222fca7b4",
+  "text_status": "extracted",
+  "pages": [
+    {
+      "page": 1,
+      "text": "",
+      "ocr_required": true
+    },
+    {
+      "page": 2,
+      "text": "",
+      "ocr_required": true
+    }
+  ]
+}

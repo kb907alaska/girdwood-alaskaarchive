@@ -1,0 +1,14 @@
+{
+  "id": "ec36836de2f130f73b64",
+  "source_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/2021-15%20Community%20Garden.pdf",
+  "fetched_utc": "2026-10-18T18:25:55+00:00",
+  "sha256": "4d03f77b9fbb641134d1d0e398418e5754cdad81b473372eae5cddab4d7545c8",
+  "text_status": "extracted",
+  "pages": [
+    {
+      "page": 1,
+      "text": "",
+      "ocr_required": true
+    }
+  ]
+}

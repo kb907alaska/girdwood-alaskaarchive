@@ -1,0 +1,14 @@
+{
+  "id": "6e0aa5d02b17fc2ecbbb",
+  "source_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/2021-13%20T21C9%20parking%20code%20revision.pdf",
+  "fetched_utc": "2026-10-18T18:20:10+00:00",
+  "sha256": "3e3945c76bd0fb8f5a5916a24da8d29718155aa325a0440f569bd0a390c6c672",
+  "text_status": "extracted",
+  "pages": [
+    {
+      "page": 1,
+      "text": "",
+      "ocr_required": true
+    }
+  ]
+}

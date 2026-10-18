@@ -1,0 +1,14 @@
+{
+  "id": "821075e695e760b64928",
+  "source_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/Gratitude%20Amanda%20Sassi.pdf",
+  "fetched_utc": "2026-10-18T18:21:09+00:00",
+  "sha256": "696fe18e31f73c40d103747ae86b55affba695388bbe3b2c2bc2751a9b7ecefb",
+  "text_status": "extracted",
+  "pages": [
+    {
+      "page": 1,
+      "text": "",
+      "ocr_required": true
+    }
+  ]
+}

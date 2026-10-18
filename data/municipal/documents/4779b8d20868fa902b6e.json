@@ -1,0 +1,19 @@
+{
+  "id": "4779b8d20868fa902b6e",
+  "source_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/ADD%20Trombley%20response%20to%20HHHAC%20request.pdf",
+  "fetched_utc": "2026-10-18T18:18:08+00:00",
+  "sha256": "682ecc6932ccfadee8549b0eb2c2be2abbf219faf9258953d25127a5043c15b6",
+  "text_status": "extracted",
+  "pages": [
+    {
+      "page": 1,
+      "text": "",
+      "ocr_required": true
+    },
+    {
+      "page": 2,
+      "text": "",
+      "ocr_required": true
+    }
+  ]
+}

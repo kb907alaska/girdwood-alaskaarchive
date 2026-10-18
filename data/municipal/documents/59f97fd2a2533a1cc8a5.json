@@ -1,0 +1,14 @@
+{
+  "id": "59f97fd2a2533a1cc8a5",
+  "source_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/Holtan%20Hills%20Concept%20Drawing%2012.22.21.pdf",
+  "fetched_utc": "2026-10-18T18:18:59+00:00",
+  "sha256": "d7c046a159dba7168651ce1c6d005b78ae2cd939815e16ef5090f1bf2a9c2a77",
+  "text_status": "extracted",
+  "pages": [
+    {
+      "page": 1,
+      "text": "E\nN\nG\nI\nN\nE\nE\nR\nI\nN\nG,\nLLC",
+      "ocr_required": false
+    }
+  ]
+}

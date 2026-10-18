@@ -1,0 +1,49 @@
+{
+  "id": "d7b260c641007ddd6d96",
+  "source_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/2023%20GVSA%20Road%20Service%20Year%20end%20report.pdf",
+  "fetched_utc": "2026-10-18T18:25:03+00:00",
+  "sha256": "65ddd4e7c9605aae5e8fdf28aa6e55edf3f9642a529f23a1fe3895662e6681ac",
+  "text_status": "extracted",
+  "pages": [
+    {
+      "page": 1,
+      "text": "2023 Winter& Summer Road Maintenance & projects completed\n\n\n\n\nWinter Maintenance:\n\n    Applied 1374 yards of traction E-chips to the service area\n    Cold-patched roads where asphalt potholing was constant from the warm and wet winter\n   Plowed and stored snow\n   Steam thaw\n\n\nSpring/Summer Maintenance:\n\n   Advanced pothole patching before spring grading of all dirt roads\n    Spring street sweeping of all paved roads, week of April 25th\n    Dust control, calcium chloride application on all dirt roads, started May 1st. Applied 62,400 lbs. of Calcium\n        chloride.\n    Brushing of bike paths and roadway shoulders\n    Crack-sealed 7,111 linear feet of asphalt roads\n   Remove abandoned cars around town\n   Grade Roads as need\n\n\nFall Projects:\n\n   Sweep streets\n    Clean up leaves and clean out storm intakes\n   Grade and compact all roads before the freeze\n    Brought in 1000 Tons of winter sanding chips.\n   Removed excavation pile of unusable material to residents for landscaping fill\n    Chipped up and removed community wood lot from the street maintenance yard\n\n\nAirport Side Projects:\n\nArlberg\n\n   Grade and compact shoulders to maintain drainage\n    Brushed shoulder and Pedestrian pathway\n    Cracked sealed road\n\nDavos\n    Ditched from 394 to 534 Davos\n    Replaced culvert at Donner, Mt. Hood and 534 Davos road\n   Reshaped ditch line\n\nVerbier Way\n    Clean out B-hive\n    Fix Rocks on the downhill that have slid into the ditch\n    Shoulder pathway with RAP\n\nOlympic Mountain Loop\n    Clean out Catch-Basins\n    Re-shoulder Curbs",
+      "ocr_required": false
+    },
+    {
+      "page": 2,
+      "text": "  Clean off winter sand\n\nMt Hood:\n    Installed a new fish culvert at Moose Meadows Creek with additional armor and steam thaw pipes\n\n\nAlyeska Highway Roads\n\n\n\nBrenner Circle\n\n   New culverts installed at 156, 148 and 132 Brenner\n    Armoring of ditch lines for strengthening\n    Tree removal\n    Reshaping of ditch lines\n    Regraded road to match up with ditch lines\n\nTownsquare\n\nGirdwood Townsquare Roads\n\n    All Parking and traffic lines were repainted\n    Asphalt repaired in several locations\n\n\nMine Roads\n\nSproat\n\n   Between the Hottentot and Treasury Box intersection, the road was excavated of peat, stumps, and\n        logs. Classified fill was brought for a new sub-base, fabric, and a cap made of recycled asphalt. The\n      road and intersections were graded to a 3% crown.\n\nRoad Maintenance Yard\n\n2024 Project and Beyond\n\n    Electric to Bull rail\n    Lights installed\n    Build fence\n    Continue stockpile of RAP and high-quality road material as it becomes available\n   Use the remaining Bone rock to make useable gravel\n    Shelter for sand storage\n    Shelter for equipment\n   Warm storage to replace City Hall\n\n\nMaterial order for 2024\n\n   Recycled Asphalt\n   Calcium Chloride\n   E-chips",
+      "ocr_required": false
+    },
+    {
+      "page": 3,
+      "text": " Culverts\n   Cement structures\n   Rip Rap Boulders\n   Road Fabric\n\nExample pictures of projects completed in 2023.\n\n\n\n\n\n                                         Davos drainage improvements",
+      "ocr_required": false
+    },
+    {
+      "page": 4,
+      "text": "Brenner Circle before improvements",
+      "ocr_required": false
+    },
+    {
+      "page": 5,
+      "text": "",
+      "ocr_required": true
+    },
+    {
+      "page": 6,
+      "text": "Brenner Circle after improvements\n\n\n\n\n\nSproat Road base improvements",
+      "ocr_required": false
+    },
+    {
+      "page": 7,
+      "text": "",
+      "ocr_required": true
+    },
+    {
+      "page": 8,
+      "text": "Mt Hood Fish culvert",
+      "ocr_required": false
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "676a62a8f8730ed626e8",
+  "source_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/2021-04%20KMTA%20Grant%20application.pdf",
+  "fetched_utc": "2026-10-18T18:19:45+00:00",
+  "sha256": "a38099c2f548e06450a739f6710777bb1ff62aba609aaac96a2caf0ec0eb06d1",
+  "text_status": "extracted",
+  "pages": [
+    {
+      "page": 1,
+      "text": "",
+      "ocr_required": true
+    }
+  ]
+}
