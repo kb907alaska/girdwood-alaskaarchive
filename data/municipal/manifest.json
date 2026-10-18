@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-10-18T16:40:08+00:00",
+  "generated_utc": "2026-10-18T16:52:05+00:00",
   "project": "Girdwood public records",
   "disclaimer": "Independent index, not official MOA record. Dates inferred from titles are hints only.",
   "sources": [
@@ -54,7 +54,7 @@
     }
   ],
   "total_discovered": 398,
-  "pending_text": 348,
+  "pending_text": 325,
   "documents": [
     {
       "id": "d657c2a5c1d1cc49ffe6",
@@ -144,7 +144,8 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/gpsac.aspx"
       ],
-      "text_status": "pending_download"
+      "text_status": "extracted",
+      "page_count": 3
     },
     {
       "id": "725d2ff06869cd36ee5e",
@@ -340,7 +341,8 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
       ],
-      "text_status": "pending_download"
+      "text_status": "extracted",
+      "page_count": 3
     },
     {
       "id": "7a07826b47b4985c39bd",
@@ -551,7 +553,8 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/gtc.aspx"
       ],
-      "text_status": "pending_download"
+      "text_status": "extracted",
+      "page_count": 2
     },
     {
       "id": "b1a97ffa8e96f6fb929c",
@@ -626,7 +629,8 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/gtc.aspx"
       ],
-      "text_status": "pending_download"
+      "text_status": "extracted",
+      "page_count": 2
     },
     {
       "id": "5f410d00fed322d4cd0f",
@@ -896,7 +900,8 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/gbos-ghec.aspx"
       ],
-      "text_status": "pending_download"
+      "text_status": "extracted",
+      "page_count": 3
     },
     {
       "id": "2748583f21aacb70089e",
@@ -1092,7 +1097,8 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
       ],
-      "text_status": "pending_download"
+      "text_status": "extracted",
+      "page_count": 1
     },
     {
       "id": "75c2543e6c0436e9e874",
@@ -1456,7 +1462,8 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/GBOSResolutions.aspx"
       ],
-      "text_status": "pending_download"
+      "text_status": "extracted",
+      "page_count": 2
     },
     {
       "id": "bd15422c355513a37d83",
@@ -1653,7 +1660,8 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
       ],
-      "text_status": "pending_download"
+      "text_status": "extracted",
+      "page_count": 3
     },
     {
       "id": "c6306a05e67fb928d9b7",
@@ -2426,7 +2434,8 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/GBOSResolutions.aspx"
       ],
-      "text_status": "pending_download"
+      "text_status": "extracted",
+      "page_count": 1
     },
     {
       "id": "d4cf298ec3c7384d0662",
@@ -2787,7 +2796,8 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/GBOSResolutions.aspx"
       ],
-      "text_status": "pending_download"
+      "text_status": "extracted",
+      "page_count": 1
     },
     {
       "id": "740d44517486333fee6f",
@@ -3075,7 +3085,8 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/GBOSResolutions.aspx"
       ],
-      "text_status": "pending_download"
+      "text_status": "extracted",
+      "page_count": 1
     },
     {
       "id": "2e437a7799d0db2c8192",
@@ -3090,7 +3101,8 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/GBOSResolutions.aspx"
       ],
-      "text_status": "pending_download"
+      "text_status": "extracted",
+      "page_count": 1
     },
     {
       "id": "de646addb16e8e092868",
@@ -3285,7 +3297,8 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/GBOSResolutions.aspx"
       ],
-      "text_status": "pending_download"
+      "text_status": "extracted",
+      "page_count": 1
     },
     {
       "id": "79e800ff89651068887c",
@@ -3677,7 +3690,8 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
       ],
-      "text_status": "pending_download"
+      "text_status": "extracted",
+      "page_count": 8
     },
     {
       "id": "be8588b8aac5fd70dc9c",
@@ -3874,7 +3888,8 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/GBOSResolutions.aspx"
       ],
-      "text_status": "pending_download"
+      "text_status": "extracted",
+      "page_count": 1
     },
     {
       "id": "16655e5bc953a8d88be9",
@@ -4363,7 +4378,8 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/GBOSResolutions.aspx"
       ],
-      "text_status": "pending_download"
+      "text_status": "extracted",
+      "page_count": 2
     },
     {
       "id": "10582917f6aa0332a6a4",
@@ -4531,7 +4547,8 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
       ],
-      "text_status": "pending_download"
+      "text_status": "extracted",
+      "page_count": 30
     },
     {
       "id": "8cdf6bd4346f1e4b8546",
@@ -4652,7 +4669,8 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/gluc.aspx"
       ],
-      "text_status": "pending_download"
+      "text_status": "extracted",
+      "page_count": 9
     },
     {
       "id": "3bcf49a7a357f47335be",
@@ -4925,7 +4943,8 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
       ],
-      "text_status": "pending_download"
+      "text_status": "extracted",
+      "page_count": 1
     },
     {
       "id": "7ab55fc6e5244a1bfeff",
@@ -5078,7 +5097,8 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/gtc.aspx"
       ],
-      "text_status": "pending_download"
+      "text_status": "extracted",
+      "page_count": 5
     },
     {
       "id": "f83d6792450e7aaba3f8",
@@ -5435,7 +5455,8 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
       ],
-      "text_status": "pending_download"
+      "text_status": "extracted",
+      "page_count": 4
     },
     {
       "id": "6aa56bfcbe56dc997847",
@@ -5647,7 +5668,8 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
       ],
-      "text_status": "pending_download"
+      "text_status": "extracted",
+      "page_count": 10
     },
     {
       "id": "be145c41542158a33308",
@@ -5919,7 +5941,8 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
       ],
-      "text_status": "pending_download"
+      "text_status": "extracted",
+      "page_count": 15
     },
     {
       "id": "ba41463c16d1aed7c4e7",

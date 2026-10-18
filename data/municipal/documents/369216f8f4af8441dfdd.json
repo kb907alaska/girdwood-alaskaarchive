@@ -1,0 +1,14 @@
+{
+  "id": "369216f8f4af8441dfdd",
+  "source_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/GVSA%20Map%20AMC%2027.30.020.pdf",
+  "fetched_utc": "2026-10-18T16:52:04+00:00",
+  "sha256": "42b345135268c793591e64a4f5c4e6336b8ef0da037f165b50f47800d0bdb2e4",
+  "text_status": "extracted",
+  "pages": [
+    {
+      "page": 1,
+      "text": "",
+      "ocr_required": true
+    }
+  ]
+}
