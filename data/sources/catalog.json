@@ -1,0 +1,721 @@
+{
+  "schema_version": 1,
+  "generated_utc": "2026-10-18T16:43:32+00:00",
+  "disclaimer": "Discovered public URLs, not a verified complete archive or downloaded corpus.",
+  "sources": [
+    {
+      "source_id": "moa-gbos",
+      "status": "partial",
+      "pages_fetched": 0,
+      "errors": [
+        {
+          "url": "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx",
+          "error": "robots.txt unavailable or disallows fetch; manual review required"
+        }
+      ]
+    },
+    {
+      "source_id": "moa-luc",
+      "status": "partial",
+      "pages_fetched": 0,
+      "errors": [
+        {
+          "url": "https://www.muni.org/Departments/operations/streets/Service/Pages/gluc.aspx",
+          "error": "robots.txt unavailable or disallows fetch; manual review required"
+        }
+      ]
+    },
+    {
+      "source_id": "moa-trails",
+      "status": "partial",
+      "pages_fetched": 0,
+      "errors": [
+        {
+          "url": "https://www.muni.org/Departments/operations/streets/Service/Pages/gtc.aspx",
+          "error": "robots.txt unavailable or disallows fetch; manual review required"
+        }
+      ]
+    },
+    {
+      "source_id": "moa-ghec",
+      "status": "partial",
+      "pages_fetched": 0,
+      "errors": [
+        {
+          "url": "https://www.muni.org/Departments/operations/streets/Service/Pages/gbos-ghec.aspx",
+          "error": "robots.txt unavailable or disallows fetch; manual review required"
+        }
+      ]
+    },
+    {
+      "source_id": "moa-psac",
+      "status": "partial",
+      "pages_fetched": 0,
+      "errors": [
+        {
+          "url": "https://www.muni.org/Departments/operations/streets/Service/Pages/gpsac.aspx",
+          "error": "robots.txt unavailable or disallows fetch; manual review required"
+        }
+      ]
+    },
+    {
+      "source_id": "moa-cemetery",
+      "status": "partial",
+      "pages_fetched": 0,
+      "errors": [
+        {
+          "url": "https://www.muni.org/Departments/operations/streets/Service/Pages/gc.aspx",
+          "error": "robots.txt unavailable or disallows fetch; manual review required"
+        }
+      ]
+    },
+    {
+      "source_id": "moa-resolutions",
+      "status": "partial",
+      "pages_fetched": 0,
+      "errors": [
+        {
+          "url": "https://www.muni.org/Departments/operations/streets/Service/Pages/GBOSResolutions.aspx",
+          "error": "robots.txt unavailable or disallows fetch; manual review required"
+        }
+      ]
+    },
+    {
+      "source_id": "moa-trails-management",
+      "status": "partial",
+      "pages_fetched": 0,
+      "errors": [
+        {
+          "url": "https://www.muni.org/Departments/parks/pages/gwtrailscommittee.aspx",
+          "error": "robots.txt unavailable or disallows fetch; manual review required"
+        }
+      ]
+    },
+    {
+      "source_id": "fcc-girdwood-luc",
+      "status": "partial",
+      "pages_fetched": 0,
+      "errors": [
+        {
+          "url": "https://communitycouncils.org/girdwood/land-use-committee/",
+          "error": "robots.txt unavailable or disallows fetch; manual review required"
+        },
+        {
+          "url": "https://communitycouncils.org/girdwood/land-use-committee/?cp=2",
+          "error": "robots.txt unavailable or disallows fetch; manual review required"
+        },
+        {
+          "url": "https://communitycouncils.org/girdwood/land-use-committee/?cp=3",
+          "error": "robots.txt unavailable or disallows fetch; manual review required"
+        },
+        {
+          "url": "https://communitycouncils.org/girdwood/land-use-committee/?cp=4",
+          "error": "robots.txt unavailable or disallows fetch; manual review required"
+        },
+        {
+          "url": "https://communitycouncils.org/girdwood/land-use-committee/?cp=5",
+          "error": "robots.txt unavailable or disallows fetch; manual review required"
+        }
+      ]
+    },
+    {
+      "source_id": "imagine-final",
+      "status": "ok",
+      "pages_fetched": 1,
+      "errors": []
+    },
+    {
+      "source_id": "imagine-2024",
+      "status": "ok",
+      "pages_fetched": 1,
+      "errors": []
+    },
+    {
+      "source_id": "imagine-2025-s",
+      "status": "ok",
+      "pages_fetched": 1,
+      "errors": []
+    },
+    {
+      "source_id": "moa-hlb",
+      "status": "manual_filter_needed",
+      "pages_fetched": 0
+    },
+    {
+      "source_id": "moa-assembly",
+      "status": "manual_filter_needed",
+      "pages_fetched": 0
+    }
+  ],
+  "record_count": 32,
+  "records": [
+    {
+      "id": "74812059367cfd77d4147462",
+      "title": "Application Form",
+      "original_url": "https://drive.google.com/file/d/1avBawg4yoeHNyDoA3K5xbIr_EHCIoQJ6/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-2024",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/project-archive/final-application-may-24",
+          "href_as_published": "https://drive.google.com/file/d/1avBawg4yoeHNyDoA3K5xbIr_EHCIoQJ6/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "bc61371449d4f6dde2058186",
+      "title": "Complete plan document",
+      "original_url": "https://drive.google.com/file/d/1XgB2GezXWcgEnyHheFTssrEDvfrVx3zj/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-final",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/final-adopted-plan",
+          "href_as_published": "https://drive.google.com/file/d/1XgB2GezXWcgEnyHheFTssrEDvfrVx3zj/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "f1d71cbd635e820537487edd",
+      "title": "Draft Amendment to HLB 2025 Work Plan to Incorporate Conditions for \"Mitten\" Disposal",
+      "original_url": "https://drive.google.com/file/d/1wIAMRPQAEUkY9pniNYBu3gn48vYYcVNy/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-final",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/final-adopted-plan",
+          "href_as_published": "https://drive.google.com/file/d/1wIAMRPQAEUkY9pniNYBu3gn48vYYcVNy/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "bb85d5be52f015f57dc29957",
+      "title": "Future Public Parks Map",
+      "original_url": "https://drive.google.com/file/d/1ctt4WXkgN5WCjcU25rSYE0el8h_M_Xck/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-final",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/final-adopted-plan",
+          "href_as_published": "https://drive.google.com/file/d/1ctt4WXkgN5WCjcU25rSYE0el8h_M_Xck/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "ad80d1330f4012d97600644a",
+      "title": "GBOS Resolution of Support",
+      "original_url": "https://drive.google.com/file/d/1sFNj1nCAyXYVmCB2xwyvIRsVtyJ8C9L5/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-2024",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/project-archive/final-application-may-24",
+          "href_as_published": "https://drive.google.com/file/d/1sFNj1nCAyXYVmCB2xwyvIRsVtyJ8C9L5/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "88eff3ec0149e5dde7151692",
+      "title": "GCP Comment Responses from the Public Review Draft",
+      "original_url": "https://drive.google.com/file/d/1fbnwUUPqL9vHXWqu1kLvVrEMIxqs-GIH/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-final",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/final-adopted-plan",
+          "href_as_published": "https://drive.google.com/file/d/1fbnwUUPqL9vHXWqu1kLvVrEMIxqs-GIH/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "39b3ce5227520acf9a51fc16",
+      "title": "GCP Comment Responses from the Public Review Draft_April 2024",
+      "original_url": "https://drive.google.com/file/d/187HmXZB1RzoTqTLAin7ujYhwt0fqVb3i/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-2024",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/project-archive/final-application-may-24",
+          "href_as_published": "https://drive.google.com/file/d/187HmXZB1RzoTqTLAin7ujYhwt0fqVb3i/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        },
+        {
+          "source_id": "imagine-2025-s",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/project-archive/S_version",
+          "href_as_published": "https://drive.google.com/file/d/187HmXZB1RzoTqTLAin7ujYhwt0fqVb3i/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "e5af1b42d8139b6d34ad168d",
+      "title": "GCP Economic and Housing Analysis",
+      "original_url": "https://drive.google.com/file/d/1ZdopcwO62_1ABcXLB69GR_nyiyGQwv04/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-final",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/final-adopted-plan",
+          "href_as_published": "https://drive.google.com/file/d/1ZdopcwO62_1ABcXLB69GR_nyiyGQwv04/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "c679ec623a31ffa214001ba9",
+      "title": "GCP Economic and Housing Analysis Draft April 2024",
+      "original_url": "https://drive.google.com/file/d/1lGPFVAA3mFu9MixtgWknPU5dfDvcb1yU/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-2024",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/project-archive/final-application-may-24",
+          "href_as_published": "https://drive.google.com/file/d/1lGPFVAA3mFu9MixtgWknPU5dfDvcb1yU/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        },
+        {
+          "source_id": "imagine-2025-s",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/project-archive/S_version",
+          "href_as_published": "https://drive.google.com/file/d/1lGPFVAA3mFu9MixtgWknPU5dfDvcb1yU/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "ae83a3169a9f13ee5def7d72",
+      "title": "Girdwood Community Survey Results 2019",
+      "original_url": "https://drive.google.com/file/d/1YpSud-el9oB5ogHIjNoHmzPrEBLic7xg/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-final",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/final-adopted-plan",
+          "href_as_published": "https://drive.google.com/file/d/1YpSud-el9oB5ogHIjNoHmzPrEBLic7xg/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "e035b6bc947648caa9139971",
+      "title": "Girdwood Community Survey Results 2019",
+      "original_url": "https://drive.google.com/file/d/18HA4OyhSMFp_s2vMoF1i9zEXB92qzczS/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-2024",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/project-archive/final-application-may-24",
+          "href_as_published": "https://drive.google.com/file/d/18HA4OyhSMFp_s2vMoF1i9zEXB92qzczS/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        },
+        {
+          "source_id": "imagine-2025-s",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/project-archive/S_version",
+          "href_as_published": "https://drive.google.com/file/d/18HA4OyhSMFp_s2vMoF1i9zEXB92qzczS/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "0bf2d05df8c56ffbd21c245c",
+      "title": "Girdwood Valley",
+      "original_url": "https://drive.google.com/file/d/1Hgad1aWPNImTkD2vy1cFsdGKy8Y5YCCV/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-2024",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/project-archive/final-application-may-24",
+          "href_as_published": "https://drive.google.com/file/d/1Hgad1aWPNImTkD2vy1cFsdGKy8Y5YCCV/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "4e018058af2d77ae33a465a6",
+      "title": "Girdwood Valley",
+      "original_url": "https://drive.google.com/file/d/1O4QJdCX94wixR4-NAlM30TH8sgyZknUQ/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-final",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/final-adopted-plan",
+          "href_as_published": "https://drive.google.com/file/d/1O4QJdCX94wixR4-NAlM30TH8sgyZknUQ/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "76abe1cb5370d29907fb4405",
+      "title": "Girdwood Valley",
+      "original_url": "https://drive.google.com/file/d/1jkT5Ak6LaF-nRVbCmHPBwRSeN8ricfdg/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-2025-s",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/project-archive/S_version",
+          "href_as_published": "https://drive.google.com/file/d/1jkT5Ak6LaF-nRVbCmHPBwRSeN8ricfdg/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "cbb7c754f1b4e31e9db7c0f7",
+      "title": "Letter of Authorization",
+      "original_url": "https://drive.google.com/file/d/16g6gTw_pXZwOSN02oeW2DkKPQwnRNfIx/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-2024",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/project-archive/final-application-may-24",
+          "href_as_published": "https://drive.google.com/file/d/16g6gTw_pXZwOSN02oeW2DkKPQwnRNfIx/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "0d8b608963af0d7677c4bf5e",
+      "title": "Lower Girdwood Valley",
+      "original_url": "https://drive.google.com/file/d/1exlRUlb193owGXe4UeIrls6wlv3aHcnk/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-2025-s",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/project-archive/S_version",
+          "href_as_published": "https://drive.google.com/file/d/1exlRUlb193owGXe4UeIrls6wlv3aHcnk/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "c479c0f06b9ab4acf5bb7c0a",
+      "title": "Lower Girdwood Valley",
+      "original_url": "https://drive.google.com/file/d/1_B2G7t128HUgO-WAArpv5_yde0TpW12F/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-final",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/final-adopted-plan",
+          "href_as_published": "https://drive.google.com/file/d/1_B2G7t128HUgO-WAArpv5_yde0TpW12F/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "d8cebbdcb81f7df3a343aa03",
+      "title": "Lower Girdwood Valley",
+      "original_url": "https://drive.google.com/file/d/13BVD_HAyA_JKlDOm_hjCKv14-VhU_f7t/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-2024",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/project-archive/final-application-may-24",
+          "href_as_published": "https://drive.google.com/file/d/13BVD_HAyA_JKlDOm_hjCKv14-VhU_f7t/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "a3c0598d62494c0e26ebc152",
+      "title": "Narrative",
+      "original_url": "https://drive.google.com/file/d/1LQW4y1H0JeXc5TvpXJFog6ms99ZZdm_b/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-2024",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/project-archive/final-application-may-24",
+          "href_as_published": "https://drive.google.com/file/d/1LQW4y1H0JeXc5TvpXJFog6ms99ZZdm_b/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "d187ee256780b78c26aa5cfd",
+      "title": "Potential Future Parks",
+      "original_url": "https://drive.google.com/file/d/1bXZIascAUZSRDo4jEqMSnUPsytpiGj5L/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-2025-s",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/project-archive/S_version",
+          "href_as_published": "https://drive.google.com/file/d/1bXZIascAUZSRDo4jEqMSnUPsytpiGj5L/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "0781d0b79ad7fb301e3d9d5b",
+      "title": "Section 1 – Introduction + Vision",
+      "original_url": "https://drive.google.com/file/d/1nB4lUOcEK_afsaArIcyHqoylUoGVje5M/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-2025-s",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/project-archive/S_version",
+          "href_as_published": "https://drive.google.com/file/d/1nB4lUOcEK_afsaArIcyHqoylUoGVje5M/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "511cdb5e491ce22341a22fe6",
+      "title": "Section 1 – Introduction + Vision",
+      "original_url": "https://drive.google.com/file/d/1w06jsWwwszXsl-mEphyoxQtD6_3D-gD6/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-2024",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/project-archive/final-application-may-24",
+          "href_as_published": "https://drive.google.com/file/d/1w06jsWwwszXsl-mEphyoxQtD6_3D-gD6/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "e8b8f3be9af97b36b6856a18",
+      "title": "Section 1 – Introduction + Vision",
+      "original_url": "https://drive.google.com/file/d/1oy8UaZb1H0-U-lDBHSdUvlKFHpA1rIP6/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-final",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/final-adopted-plan",
+          "href_as_published": "https://drive.google.com/file/d/1oy8UaZb1H0-U-lDBHSdUvlKFHpA1rIP6/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "522708469de76a4a7747d2dc",
+      "title": "Section 2 – Background + Analysis",
+      "original_url": "https://drive.google.com/file/d/1IG1JsvnJeRSpdLx9fJoXpWI4I8b-fCN6/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-final",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/final-adopted-plan",
+          "href_as_published": "https://drive.google.com/file/d/1IG1JsvnJeRSpdLx9fJoXpWI4I8b-fCN6/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "53afd2c7b8b427dc91852bd6",
+      "title": "Section 2 – Background + Analysis",
+      "original_url": "https://drive.google.com/file/d/1-YHUdomB3zlb3itsSjQB8uZde01YdusT/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-2024",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/project-archive/final-application-may-24",
+          "href_as_published": "https://drive.google.com/file/d/1-YHUdomB3zlb3itsSjQB8uZde01YdusT/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "d9604d30797d71c3dc8758b9",
+      "title": "Section 2 – Background + Analysis",
+      "original_url": "https://drive.google.com/file/d/1D2A0VjpxrSpSSgj3gSTR5TksAY8-QnIF/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-2025-s",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/project-archive/S_version",
+          "href_as_published": "https://drive.google.com/file/d/1D2A0VjpxrSpSSgj3gSTR5TksAY8-QnIF/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "797b1abbfccc7cabdcf93e6e",
+      "title": "Section 3 – Land Use Plan",
+      "original_url": "https://drive.google.com/file/d/1o_hal4fvF0OAQNrv8uc1SwITIIGXzaK3/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-2024",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/project-archive/final-application-may-24",
+          "href_as_published": "https://drive.google.com/file/d/1o_hal4fvF0OAQNrv8uc1SwITIIGXzaK3/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "bf84505fbfb63b673016cd70",
+      "title": "Section 3 – Land Use Plan",
+      "original_url": "https://drive.google.com/file/d/1-qcvvtnaMix6oBIrdKqACmfumbvNyg2w/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-2025-s",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/project-archive/S_version",
+          "href_as_published": "https://drive.google.com/file/d/1-qcvvtnaMix6oBIrdKqACmfumbvNyg2w/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "ef1566dd8f5e88f31f252e0a",
+      "title": "Section 3 – Land Use Plan",
+      "original_url": "https://drive.google.com/file/d/1U2S51_0Xq6GAhTrSpx7re7R7MlMCbLQ0/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-final",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/final-adopted-plan",
+          "href_as_published": "https://drive.google.com/file/d/1U2S51_0Xq6GAhTrSpx7re7R7MlMCbLQ0/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "c4c92e8cef65f7b7489550f0",
+      "title": "Section 4 – Implementation",
+      "original_url": "https://drive.google.com/file/d/1cp-rvo6zg9Y8LBw2Fi1Px3l38-CQQf-y/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-final",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/final-adopted-plan",
+          "href_as_published": "https://drive.google.com/file/d/1cp-rvo6zg9Y8LBw2Fi1Px3l38-CQQf-y/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "f5abb0d479bc60a7268333b9",
+      "title": "Section 4 – Implementation",
+      "original_url": "https://drive.google.com/file/d/1x5yP2w5qgZrXgAl5EmmXGJVOOf3TmZ4V/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-2024",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/project-archive/final-application-may-24",
+          "href_as_published": "https://drive.google.com/file/d/1x5yP2w5qgZrXgAl5EmmXGJVOOf3TmZ4V/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    },
+    {
+      "id": "f6b3c49004eef2c842f6758b",
+      "title": "Section 4 – Implementation",
+      "original_url": "https://drive.google.com/file/d/1k7nOKDDZUnDP2DyM1nJHb4ObOYmftikD/view?usp=drive_link",
+      "kind": "external_file_link",
+      "organization": "Imagine! Girdwood",
+      "source_links": [
+        {
+          "source_id": "imagine-2025-s",
+          "organization": "Imagine! Girdwood",
+          "committee": "PLANNING",
+          "source_page": "https://www.imaginegirdwood.org/project-archive/S_version",
+          "href_as_published": "https://drive.google.com/file/d/1k7nOKDDZUnDP2DyM1nJHb4ObOYmftikD/view?usp=drive_link",
+          "rights_review": "review_reuse_terms"
+        }
+      ]
+    }
+  ]
+}
