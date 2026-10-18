@@ -1,0 +1,54 @@
+name: Discover Girdwood civic sources
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "27 14 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "sources/registry.json"
+      - "scripts/discover_sources.py"
+      - "scripts/build_sqlite_index.py"
+      - "schema/d1_civic_rag.sql"
+      - ".github/workflows/source-discovery.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: girdwood-public-records
+  cancel-in-progress: false
+
+jobs:
+  harvest-source-links:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: python -m pip install "requests>=2.32,<3" "beautifulsoup4>=4.12,<5"
+      - name: Validate Python and SQLite schema
+        run: |
+          python -m py_compile scripts/discover_sources.py scripts/build_sqlite_index.py scripts/ingest_moa.py
+          python scripts/build_sqlite_index.py --db /tmp/girdwood-civic-ci.db
+      - name: Discover public cross-organization document links
+        continue-on-error: true
+        run: python scripts/discover_sources.py --max-pages 5 --max-details 100
+      - name: Commit source catalog if available
+        run: |
+          if [ -e data/sources/catalog.json ]; then
+            git config user.name "girdwood-records-bot"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add data/sources/catalog.json
+            if ! git diff --cached --quiet; then
+              git commit -m "data: refresh public source URL catalog"
+              git pull --rebase origin main
+              git push origin main
+            fi
+          fi
