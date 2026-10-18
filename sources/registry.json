@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "scope": "girdwood",
+  "description": "Curated official or organization-maintained public entry points. Link targets are not automatically redistributable.",
+  "sources": [
+    {
+      "id": "moa-gbos",
+      "organization": "Municipality of Anchorage",
+      "committee": "GBOS",
+      "url": "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx",
+      "mode": "direct_files",
+      "rights_review": "public_government",
+      "status": "verified_entry_point_2026_10_18"
+    },
+    {
+      "id": "moa-luc",
+      "organization": "Municipality of Anchorage",
+      "committee": "LUC",
+      "url": "https://www.muni.org/Departments/operations/streets/Service/Pages/gluc.aspx",
+      "mode": "direct_files",
+      "rights_review": "public_government",
+      "status": "verified_entry_point_2026_10_18"
+    },
+    {
+      "id": "moa-trails",
+      "organization": "Municipality of Anchorage",
+      "committee": "TRAILS",
+      "url": "https://www.muni.org/Departments/operations/streets/Service/Pages/gtc.aspx",
+      "mode": "direct_files",
+      "rights_review": "public_government",
+      "status": "verified_entry_point_2026_10_18"
+    },
+    {
+      "id": "moa-ghec",
+      "organization": "Municipality of Anchorage",
+      "committee": "GHEC",
+      "url": "https://www.muni.org/Departments/operations/streets/Service/Pages/gbos-ghec.aspx",
+      "mode": "direct_files",
+      "rights_review": "public_government",
+      "status": "verified_entry_point_2026_10_18"
+    },
+    {
+      "id": "moa-psac",
+      "organization": "Municipality of Anchorage",
+      "committee": "PSAC",
+      "url": "https://www.muni.org/Departments/operations/streets/Service/Pages/gpsac.aspx",
+      "mode": "direct_files",
+      "rights_review": "public_government",
+      "status": "verified_entry_point_2026_10_18"
+    },
+    {
+      "id": "moa-cemetery",
+      "organization": "Municipality of Anchorage",
+      "committee": "CEMETERY",
+      "url": "https://www.muni.org/Departments/operations/streets/Service/Pages/gc.aspx",
+      "mode": "direct_files",
+      "rights_review": "public_government",
+      "status": "verified_entry_point_2026_10_18"
+    },
+    {
+      "id": "moa-resolutions",
+      "organization": "Municipality of Anchorage",
+      "committee": "RESOLUTIONS",
+      "url": "https://www.muni.org/Departments/operations/streets/Service/Pages/GBOSResolutions.aspx",
+      "mode": "direct_files",
+      "rights_review": "public_government",
+      "status": "verified_entry_point_2026_10_18"
+    },
+    {
+      "id": "moa-trails-management",
+      "organization": "Municipality of Anchorage",
+      "committee": "TRAILS",
+      "url": "https://www.muni.org/Departments/parks/pages/gwtrailscommittee.aspx",
+      "mode": "direct_files",
+      "rights_review": "public_government",
+      "status": "verified_entry_point_2026_10_18"
+    },
+    {
+      "id": "fcc-girdwood-luc",
+      "organization": "Federation of Community Councils",
+      "committee": "LUC",
+      "url": "https://communitycouncils.org/girdwood/land-use-committee/",
+      "mode": "paged_detail",
+      "rights_review": "review_reuse_terms",
+      "status": "verified_entry_point_2026_10_18"
+    },
+    {
+      "id": "imagine-final",
+      "organization": "Imagine! Girdwood",
+      "committee": "PLANNING",
+      "url": "https://www.imaginegirdwood.org/final-adopted-plan",
+      "mode": "external_links_metadata",
+      "rights_review": "review_reuse_terms",
+      "status": "verified_entry_point_2026_10_18"
+    },
+    {
+      "id": "imagine-2024",
+      "organization": "Imagine! Girdwood",
+      "committee": "PLANNING",
+      "url": "https://www.imaginegirdwood.org/project-archive/final-application-may-24",
+      "mode": "external_links_metadata",
+      "rights_review": "review_reuse_terms",
+      "status": "verified_entry_point_2026_10_18"
+    },
+    {
+      "id": "imagine-2025-s",
+      "organization": "Imagine! Girdwood",
+      "committee": "PLANNING",
+      "url": "https://www.imaginegirdwood.org/project-archive/S_version",
+      "mode": "external_links_metadata",
+      "rights_review": "review_reuse_terms",
+      "status": "verified_entry_point_2026_10_18"
+    },
+    {
+      "id": "moa-hlb",
+      "organization": "Municipality of Anchorage",
+      "committee": "HLB",
+      "url": "https://www.muni.org/Departments/hlb/pages/HLBCommission.aspx",
+      "mode": "metadata_only",
+      "rights_review": "needs_girdwood_filter",
+      "status": "verified_entry_point_2026_10_18"
+    },
+    {
+      "id": "moa-assembly",
+      "organization": "Municipality of Anchorage",
+      "committee": "ASSEMBLY",
+      "url": "https://www.muni.org/departments/Assembly/Pages/default.aspx",
+      "mode": "metadata_only",
+      "rights_review": "needs_girdwood_filter",
+      "status": "verified_entry_point_2026_10_18"
+    }
+  ]
+}
