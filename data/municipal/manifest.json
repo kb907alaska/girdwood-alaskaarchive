@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-10-19T13:30:23+00:00",
+  "generated_utc": "2026-10-20T13:28:31+00:00",
   "project": "Girdwood public records",
   "disclaimer": "Independent index, not official MOA record. Dates inferred from titles are hints only.",
   "sources": [
@@ -8,7 +8,7 @@
       "board": "GBOS",
       "url": "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx",
       "status": "ok",
-      "links_found": 118
+      "links_found": 119
     },
     {
       "board": "LUC",
@@ -53,7 +53,7 @@
       "links_found": 0
     }
   ],
-  "total_discovered": 398,
+  "total_discovered": 401,
   "pending_text": 4,
   "documents": [
     {
@@ -345,6 +345,22 @@
       "page_count": 29
     },
     {
+      "id": "ddb3e50ffec067c56c8c",
+      "title": "MOA GBOS October 2026 Quarterly Meeting agenda draft",
+      "original_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/MOA%20GBOS%20October%202026%20Quarterly%20Meeting%20agenda%20draft.pdf",
+      "file_type": "pdf",
+      "document_type": "agenda",
+      "year_hint": 2026,
+      "board": [
+        "GBOS"
+      ],
+      "source_pages": [
+        "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
+      ],
+      "text_status": "extracted",
+      "page_count": 2
+    },
+    {
       "id": "324e7dce466f7be9a113",
       "title": "MOA GBOS July 27 2026 Quarterly Meeting minutes final",
       "original_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/MOA%20GBOS%20July%2027%202026%20Quarterly%20Meeting%20minutes%20final.pdf",
@@ -373,6 +389,7 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
       ],
+      "not_seen_this_run": true,
       "text_status": "extracted",
       "page_count": 2
     },
@@ -1129,6 +1146,22 @@
       "page_count": 3
     },
     {
+      "id": "19da45b2badb5d0bda54",
+      "title": "GBOS Oct 19 2026 meeting packet rev",
+      "original_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/GBOS%20Oct%2019%202026%20meeting%20packet%20rev.pdf",
+      "file_type": "pdf",
+      "document_type": "packet",
+      "year_hint": 2026,
+      "board": [
+        "GBOS"
+      ],
+      "source_pages": [
+        "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
+      ],
+      "text_status": "extracted",
+      "page_count": 70
+    },
+    {
       "id": "66301a81ed0c760ae000",
       "title": "GBOS Oct 19 2026 meeting packet",
       "original_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/GBOS%20Oct%2019%202026%20meeting%20packet.pdf",
@@ -1161,6 +1194,22 @@
       "page_count": 1
     },
     {
+      "id": "1de9db52e8cc04a3f7bb",
+      "title": "GBOS Oct 19 2026 agenda draft REV 10.19",
+      "original_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/GBOS%20Oct%2019%202026%20agenda%20draft%20REV%2010.19.pdf",
+      "file_type": "pdf",
+      "document_type": "agenda",
+      "year_hint": 2026,
+      "board": [
+        "GBOS"
+      ],
+      "source_pages": [
+        "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
+      ],
+      "text_status": "extracted",
+      "page_count": 3
+    },
+    {
       "id": "75c2543e6c0436e9e874",
       "title": "GBOS Oct 19 2026 agenda draft REV 10.16.pdf",
       "original_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/GBOS%20Oct%2019%202026%20agenda%20draft%20REV%2010.16.pdf",
@@ -1173,6 +1222,7 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
       ],
+      "not_seen_this_run": true,
       "text_status": "extracted",
       "page_count": 3
     },
