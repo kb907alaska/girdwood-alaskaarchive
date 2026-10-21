@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-10-20T13:28:31+00:00",
+  "generated_utc": "2026-10-21T13:27:24+00:00",
   "project": "Girdwood public records",
   "disclaimer": "Independent index, not official MOA record. Dates inferred from titles are hints only.",
   "sources": [
@@ -8,7 +8,7 @@
       "board": "GBOS",
       "url": "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx",
       "status": "ok",
-      "links_found": 119
+      "links_found": 117
     },
     {
       "board": "LUC",
@@ -53,7 +53,7 @@
       "links_found": 0
     }
   ],
-  "total_discovered": 401,
+  "total_discovered": 408,
   "pending_text": 4,
   "documents": [
     {
@@ -1066,6 +1066,22 @@
       "page_count": 23
     },
     {
+      "id": "b6b3591e3e8144e698cc",
+      "title": "GBOS Sept 30 2026 Special Meeting GBOS Rules and Procedures and GVSA Grants minutes final",
+      "original_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/GBOS%20Sept%2030%202026%20Special%20Meeting%20GBOS%20Rules%20and%20Procedures%20and%20GVSA%20Grants%20minutes%20final.pdf",
+      "file_type": "pdf",
+      "document_type": "minutes",
+      "year_hint": 2026,
+      "board": [
+        "GBOS"
+      ],
+      "source_pages": [
+        "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
+      ],
+      "text_status": "extracted",
+      "page_count": 3
+    },
+    {
       "id": "ce5386213841a938e2de",
       "title": "GBOS Sept 30 2026 Special Meeting GBOS Rules and Procedures and GVSA Grants minutes draft",
       "original_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/GBOS%20Sept%2030%202026%20Special%20Meeting%20GBOS%20Rules%20and%20Procedures%20and%20GVSA%20Grants%20minutes%20draft.pdf",
@@ -1078,8 +1094,25 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
       ],
+      "not_seen_this_run": true,
       "text_status": "extracted",
       "page_count": 3
+    },
+    {
+      "id": "923ba82303ea722a3c90",
+      "title": "GBOS Sept 21 2026 minutes final",
+      "original_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/GBOS%20Sept%2021%202026%20minutes%20final.pdf",
+      "file_type": "pdf",
+      "document_type": "minutes",
+      "year_hint": 2026,
+      "board": [
+        "GBOS"
+      ],
+      "source_pages": [
+        "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
+      ],
+      "text_status": "extracted",
+      "page_count": 5
     },
     {
       "id": "e52a1d0eb10c178dbae1",
@@ -1094,6 +1127,7 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
       ],
+      "not_seen_this_run": true,
       "text_status": "extracted",
       "page_count": 5
     },
@@ -1130,6 +1164,38 @@
       "page_count": 19
     },
     {
+      "id": "252baaafe6bd6d79c11f",
+      "title": "GBOS October 2026 meeting packet final",
+      "original_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/GBOS%20October%202026%20meeting%20packet%20final.pdf",
+      "file_type": "pdf",
+      "document_type": "packet",
+      "year_hint": 2026,
+      "board": [
+        "GBOS"
+      ],
+      "source_pages": [
+        "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
+      ],
+      "text_status": "extracted",
+      "page_count": 72
+    },
+    {
+      "id": "b65f190d8174a865dfeb",
+      "title": "GBOS Oct 9 2026 Special Meeting GBOS Rules and Procedures minutes final",
+      "original_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/GBOS%20Oct%209%202026%20Special%20Meeting%20GBOS%20Rules%20and%20Procedures%20minutes%20final.pdf",
+      "file_type": "pdf",
+      "document_type": "minutes",
+      "year_hint": 2026,
+      "board": [
+        "GBOS"
+      ],
+      "source_pages": [
+        "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
+      ],
+      "text_status": "extracted",
+      "page_count": 3
+    },
+    {
       "id": "88803fabd7be2a7c81b2",
       "title": "GBOS Oct 9 2026 Special Meeting GBOS Rules and Procedures minutes draft",
       "original_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/GBOS%20Oct%209%202026%20Special%20Meeting%20GBOS%20Rules%20and%20Procedures%20minutes%20draft.pdf",
@@ -1142,8 +1208,25 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
       ],
+      "not_seen_this_run": true,
       "text_status": "extracted",
       "page_count": 3
+    },
+    {
+      "id": "e7808fd872085afc50ec",
+      "title": "GBOS Oct 19 2026 minutes draft",
+      "original_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/GBOS%20Oct%2019%202026%20minutes%20draft.pdf",
+      "file_type": "pdf",
+      "document_type": "minutes",
+      "year_hint": 2026,
+      "board": [
+        "GBOS"
+      ],
+      "source_pages": [
+        "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
+      ],
+      "text_status": "extracted",
+      "page_count": 4
     },
     {
       "id": "19da45b2badb5d0bda54",
@@ -1158,6 +1241,7 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
       ],
+      "not_seen_this_run": true,
       "text_status": "extracted",
       "page_count": 70
     },
@@ -1174,6 +1258,7 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
       ],
+      "not_seen_this_run": true,
       "text_status": "extracted",
       "page_count": 37
     },
@@ -1190,8 +1275,25 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
       ],
+      "not_seen_this_run": true,
       "text_status": "extracted",
       "page_count": 1
+    },
+    {
+      "id": "bc3de9f0c1a65bf8dd39",
+      "title": "GBOS Oct 19 2026 agenda final",
+      "original_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/GBOS%20Oct%2019%202026%20agenda%20final.pdf",
+      "file_type": "pdf",
+      "document_type": "agenda",
+      "year_hint": 2026,
+      "board": [
+        "GBOS"
+      ],
+      "source_pages": [
+        "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
+      ],
+      "text_status": "extracted",
+      "page_count": 3
     },
     {
       "id": "1de9db52e8cc04a3f7bb",
@@ -1206,6 +1308,7 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
       ],
+      "not_seen_this_run": true,
       "text_status": "extracted",
       "page_count": 3
     },
@@ -1447,6 +1550,7 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
       ],
+      "not_seen_this_run": true,
       "text_status": "extracted",
       "page_count": 2
     },
@@ -5857,6 +5961,22 @@
       "page_count": 78
     },
     {
+      "id": "0234608e1bc274d28e70",
+      "title": "GBOS SM GVSA Grant Presentations minutes final",
+      "original_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/GBOS%20SM%20GVSA%20Grant%20Presentations%20minutes%20final.pdf",
+      "file_type": "pdf",
+      "document_type": "minutes",
+      "year_hint": null,
+      "board": [
+        "GBOS"
+      ],
+      "source_pages": [
+        "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
+      ],
+      "text_status": "extracted",
+      "page_count": 1
+    },
+    {
       "id": "507678586feca51ed081",
       "title": "GBOS SM GVSA Grant Presentations and PSAC member appointment minutes draft",
       "original_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/GBOS%20SM%20GVSA%20Grant%20Presentations%20minutes%20draft.pdf",
@@ -5869,6 +5989,7 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/girdwoodboardofsupervisors.aspx"
       ],
+      "not_seen_this_run": true,
       "text_status": "extracted",
       "page_count": 1
     },
