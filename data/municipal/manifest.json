@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-10-22T13:29:09+00:00",
+  "generated_utc": "2026-10-23T13:26:42+00:00",
   "project": "Girdwood public records",
   "disclaimer": "Independent index, not official MOA record. Dates inferred from titles are hints only.",
   "sources": [
@@ -26,7 +26,7 @@
       "board": "GHEC",
       "url": "https://www.muni.org/Departments/operations/streets/Service/Pages/gbos-ghec.aspx",
       "status": "ok",
-      "links_found": 37
+      "links_found": 36
     },
     {
       "board": "PSAC",
@@ -53,7 +53,7 @@
       "links_found": 0
     }
   ],
-  "total_discovered": 409,
+  "total_discovered": 411,
   "pending_text": 4,
   "documents": [
     {
@@ -855,8 +855,41 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/gbos-ghec.aspx"
       ],
+      "not_seen_this_run": true,
       "text_status": "extracted",
       "page_count": 2
+    },
+    {
+      "id": "02abeaad0719ae19126e",
+      "title": "GHEC November 2026 regular meeting agenda draft",
+      "original_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/GHEC%20November%20%202026%20regular%20meeting%20agenda%20draft.pdf",
+      "file_type": "pdf",
+      "document_type": "agenda",
+      "year_hint": 2026,
+      "board": [
+        "GHEC"
+      ],
+      "source_pages": [
+        "https://www.muni.org/Departments/operations/streets/Service/Pages/gbos-ghec.aspx"
+      ],
+      "text_status": "extracted",
+      "page_count": 2
+    },
+    {
+      "id": "3c15f4348a2c1ff2db1e",
+      "title": "GHEC Nov 2026 meeting packet",
+      "original_url": "https://www.muni.org/Departments/operations/streets/Service/GBOS/GHEC%20Nov%202026%20meeting%20packet.pdf",
+      "file_type": "pdf",
+      "document_type": "packet",
+      "year_hint": 2026,
+      "board": [
+        "GHEC"
+      ],
+      "source_pages": [
+        "https://www.muni.org/Departments/operations/streets/Service/Pages/gbos-ghec.aspx"
+      ],
+      "text_status": "extracted",
+      "page_count": 6
     },
     {
       "id": "fde5ec70b54bfcfbfc1c",
@@ -2080,6 +2113,7 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/gbos-ghec.aspx"
       ],
+      "not_seen_this_run": true,
       "text_status": "extracted",
       "page_count": 2
     },
@@ -5782,6 +5816,7 @@
       "source_pages": [
         "https://www.muni.org/Departments/operations/streets/Service/Pages/gbos-ghec.aspx"
       ],
+      "not_seen_this_run": true,
       "text_status": "extracted",
       "page_count": 93
     },
